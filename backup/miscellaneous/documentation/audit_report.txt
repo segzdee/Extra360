@@ -1,0 +1,84 @@
+# npm audit report
+
+cross-spawn  <6.0.6
+Severity: high
+Regular Expression Denial of Service (ReDoS) in cross-spawn - https://github.com/advisories/GHSA-3xgq-45jj-v275
+fix available via `npm audit fix --force`
+Will install imagemin-mozjpeg@7.0.0, which is a breaking change
+node_modules/bin-build/node_modules/cross-spawn
+node_modules/bin-check/node_modules/cross-spawn
+  execa  0.5.0 - 0.9.0
+  Depends on vulnerable versions of cross-spawn
+  node_modules/bin-build/node_modules/execa
+  node_modules/bin-check/node_modules/execa
+    bin-build  >=2.1.2
+    Depends on vulnerable versions of download
+    Depends on vulnerable versions of execa
+    node_modules/bin-build
+      mozjpeg  >=4.0.0
+      Depends on vulnerable versions of bin-build
+      Depends on vulnerable versions of bin-wrapper
+      node_modules/mozjpeg
+        imagemin-mozjpeg  >=8.0.0
+        Depends on vulnerable versions of mozjpeg
+        node_modules/imagemin-mozjpeg
+      pngquant-bin  >=3.0.0
+      Depends on vulnerable versions of bin-build
+      Depends on vulnerable versions of bin-wrapper
+      node_modules/pngquant-bin
+        imagemin-pngquant  >=5.1.0
+        Depends on vulnerable versions of pngquant-bin
+        node_modules/imagemin-pngquant
+    bin-check  >=4.1.0
+    Depends on vulnerable versions of execa
+    node_modules/bin-check
+      bin-wrapper  >=0.4.0
+      Depends on vulnerable versions of bin-check
+      Depends on vulnerable versions of bin-version-check
+      Depends on vulnerable versions of download
+      node_modules/bin-wrapper
+
+got  <=11.8.3
+Severity: high
+Got allows a redirect to a UNIX socket - https://github.com/advisories/GHSA-pfrx-2q88-qq97
+Depends on vulnerable versions of cacheable-request
+fix available via `npm audit fix --force`
+Will install imagemin-mozjpeg@7.0.0, which is a breaking change
+node_modules/bin-wrapper/node_modules/got
+node_modules/got
+  download  >=4.0.0
+  Depends on vulnerable versions of got
+  node_modules/bin-wrapper/node_modules/download
+  node_modules/download
+
+http-cache-semantics  <4.1.1
+Severity: high
+http-cache-semantics vulnerable to Regular Expression Denial of Service - https://github.com/advisories/GHSA-rc47-6667-2j5j
+fix available via `npm audit fix --force`
+Will install imagemin-mozjpeg@7.0.0, which is a breaking change
+node_modules/http-cache-semantics
+  cacheable-request  0.1.0 - 2.1.4
+  Depends on vulnerable versions of http-cache-semantics
+  node_modules/cacheable-request
+
+semver-regex  <=3.1.3
+Severity: high
+semver-regex Regular Expression Denial of Service (ReDOS) - https://github.com/advisories/GHSA-44c6-4v22-4mhx
+Regular expression denial of service in semver-regex - https://github.com/advisories/GHSA-4x5v-gmq8-25ch
+fix available via `npm audit fix --force`
+Will install imagemin-mozjpeg@7.0.0, which is a breaking change
+node_modules/semver-regex
+  find-versions  <=3.2.0
+  Depends on vulnerable versions of semver-regex
+  node_modules/find-versions
+    bin-version  <=4.0.0
+    Depends on vulnerable versions of find-versions
+    node_modules/bin-version
+      bin-version-check  <=4.0.0
+      Depends on vulnerable versions of bin-version
+      node_modules/bin-version-check
+
+17 vulnerabilities (1 moderate, 16 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force

@@ -1,0 +1,8 @@
+File: microservices/src/security/securityTypes.ts
+import { MicroserviceType } from '../types/architecture';
+export interface SecurityPolicy {
+export interface SecurityRule {
+export enum SecurityRuleType {
+export enum EnforcementLevel {
+export enum SecurityLevel {
+export interface AuditLog {

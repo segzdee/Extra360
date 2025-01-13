@@ -1,0 +1,4 @@
+File: system_backups/20250109_143758/duplicates/Shift 5.js
+import { DataTypes } from 'sequelize';
+import sequelize from '../database/connection.js';
+export default Shift;

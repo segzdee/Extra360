@@ -1,0 +1,5 @@
+File: BRIDGE/src/monitoring/metrics.ts
+import client from 'prom-client';
+export const requestDuration = new client.Histogram({
+export const requestTotal = new client.Counter({
+export { register };

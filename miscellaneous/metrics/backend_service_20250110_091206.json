@@ -1,0 +1,14 @@
+{
+    "quantum_metric_timestamp": "20250110_091206",
+    "service_name": "backend_service",
+    "performance_quantum": {
+        "cpu_utilization": ,
+        "memory_consumption": ,
+        "disk_io_intensity": "",
+        "network_throughput": "57430408 15203518
+57430408 15203518
+57430408 15203518",
+        "entropy_coefficient": 
+    },
+    "quantum_performance_signature": "14db40c7512055feb030b221f5f2ef11fc907222de231922e42dc88f6441bca3"
+}

@@ -1,0 +1,54 @@
+version: 2
+updates:
+  # Node.js quantum dependency management
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    target-branch: "development"
+    versioning-strategy: "auto"
+    commit-message:
+      prefix: "feat(deps)"
+      prefix-development: "chore(deps-dev)"
+    labels:
+      - "dependencies"
+      - "automated"
+    reviewers:
+      - "segzdee"
+
+  # PHP/Composer quantum state synchronization
+  - package-ecosystem: "composer"
+    directory: "/BACKEND"
+    schedule:
+      interval: "weekly"
+    target-branch: "development"
+    versioning-strategy: "auto"
+    commit-message:
+      prefix: "feat(deps)"
+    labels:
+      - "dependencies"
+      - "backend"
+
+  # Docker quantum container orchestration
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    target-branch: "development"
+    commit-message:
+      prefix: "feat(docker)"
+    labels:
+      - "docker"
+      - "infrastructure"
+
+  # GitHub Actions quantum automation matrix
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    target-branch: "development"
+    commit-message:
+      prefix: "ci"
+    labels:
+      - "ci-cd"
+      - "automated"

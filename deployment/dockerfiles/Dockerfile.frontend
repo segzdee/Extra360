@@ -1,0 +1,33 @@
+FROM node:20-alpine AS dependency-quantum-realm
+WORKDIR /quantum-frontend-nexus
+
+COPY package.json package-lock.json ./
+RUN npm ci --omit=dev --prefer-offline
+
+FROM node:20-alpine AS build-quantum-transmission
+WORKDIR /quantum-frontend-nexus
+COPY --from=dependency-quantum-realm /quantum-frontend-nexus/node_modules ./node_modules
+COPY . .
+
+ARG NEXT_PUBLIC_API_ENDPOINT
+ENV NEXT_PUBLIC_API_ENDPOINT=${NEXT_PUBLIC_API_ENDPOINT}
+ENV NODE_ENV=production
+
+RUN npm run build
+
+FROM node:20-alpine AS quantum-runtime-deployment
+WORKDIR /quantum-frontend-nexus
+
+RUN addgroup -g 1001 -S nodejs && \
+    adduser -S nextjs -u 1001
+
+COPY --from=build-quantum-transmission --chown=nextjs:nodejs /quantum-frontend-nexus/.next/standalone ./
+COPY --from=build-quantum-transmission --chown=nextjs:nodejs /quantum-frontend-nexus/.next/static ./.next/static
+COPY --from=build-quantum-transmission --chown=nextjs:nodejs /quantum-frontend-nexus/public ./public
+
+USER nextjs
+EXPOSE 3000
+ENV PORT 3000
+ENV HOSTNAME "0.0.0.0"
+
+CMD ["node", "server.js"]

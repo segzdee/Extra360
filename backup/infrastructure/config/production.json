@@ -1,0 +1,15 @@
+{
+  "environment": "production",
+  "logLevel": "error",
+  "database": {
+    "host": "prod-db.extrastaff360.com",
+    "port": 5432,
+    "username": "extrastaff_prod",
+    "password": "secure_prod_password_2024"
+  },
+  "security": {
+    "jwtSecret": "prod_jwt_secret_extrastaff360",
+    "rateLimitWindowMs": 900000,
+    "rateLimitMaxRequests": 50
+  }
+}

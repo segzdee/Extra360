@@ -1,0 +1,5 @@
+File: microservices/src/testing/testStrategy.ts
+import { MicroserviceType } from '../types/architecture';
+export enum TestType {
+export interface TestCase {
+export interface TestReport {

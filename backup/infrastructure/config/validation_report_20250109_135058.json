@@ -1,0 +1,297 @@
+{
+  "timestamp": "2025-01-09T13:50:58.826033",
+  "results": {
+    "extrastaff": {
+      "total": 50,
+      "valid": 50,
+      "invalid": 0,
+      "field_completeness": {},
+      "value_distributions": {},
+      "validation_details": [
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        }
+      ]
+    },
+    "companies": {
+      "total": 10,
+      "valid": 10,
+      "invalid": 0,
+      "field_completeness": {},
+      "value_distributions": {},
+      "validation_details": [
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        }
+      ]
+    },
+    "agencies": {
+      "total": 5,
+      "valid": 5,
+      "invalid": 0,
+      "field_completeness": {},
+      "value_distributions": {},
+      "validation_details": [
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        },
+        {
+          "valid": true,
+          "errors": []
+        }
+      ]
+    }
+  },
+  "summary": {
+    "total_entities": 65,
+    "total_valid": 65,
+    "total_invalid": 0
+  }
+}

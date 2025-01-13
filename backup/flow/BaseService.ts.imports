@@ -1,0 +1,6 @@
+File: services/BaseService.ts
+import { EventEmitter } from 'events';
+import { Logger } from './Logger';
+import { CacheManager } from './CacheManager';
+import { ErrorHandler } from './ErrorHandler';
+export abstract class BaseService extends EventEmitter {

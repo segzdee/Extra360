@@ -1,0 +1,4 @@
+File: monitoring/MonitoringMiddleware.ts
+import { Request, Response, NextFunction } from 'express';
+import { MetricsCollector } from './MetricsCollector';
+export function monitoringMiddleware() {

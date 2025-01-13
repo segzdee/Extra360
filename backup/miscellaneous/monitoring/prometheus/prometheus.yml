@@ -1,0 +1,8 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: 'extrastaff360'
+    static_configs:
+      - targets: ['backend:5001', 'bridge:5002', 'frontend:80']

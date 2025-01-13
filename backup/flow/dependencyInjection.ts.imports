@@ -1,0 +1,4 @@
+File: microservices/src/di/dependencyInjection.ts
+export interface DependencyResolver {
+export class TypeSafeDependencyContainer implements DependencyResolver {
+export const dependencyContainer = new TypeSafeDependencyContainer();

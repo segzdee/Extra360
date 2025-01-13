@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: quantum-api
+  namespace: quantum-ecosystem
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      quantum-layer: api
+  template:
+    metadata:
+      labels:
+        quantum-layer: api
+    spec:
+      containers:
+      - name: quantum-api-container
+        image: alpine:latest
+        resources:
+          requests:
+            cpu: 100m
+            memory: 128Mi
+          limits:
+            cpu: 500m
+            memory: 512Mi

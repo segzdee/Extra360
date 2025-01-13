@@ -1,0 +1,5 @@
+File: services/paymentService.ts
+import { BaseService } from '../core/BaseService';
+import { PaymentProcessor } from '../integrations/PaymentProcessor';
+import { PaymentDetails, Transaction } from '../types';
+export class PaymentService extends BaseService {

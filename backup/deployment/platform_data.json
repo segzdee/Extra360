@@ -1,0 +1,5553 @@
+{
+  "extrastaff": [
+    {
+      "id": "92c61255-dca1-4372-a021-0131465599e9",
+      "profile": {
+        "full_name": "Staff Member 6023",
+        "email": "staff9335@example.com",
+        "phone": "+93803538725",
+        "profile_photo": "staff_photo_3610.jpg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 2",
+        "coordinates": {
+          "latitude": -63.340029,
+          "longitude": 106.564979
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Barista",
+          "Food Runner",
+          "Waiting",
+          "Hosting"
+        ],
+        "certifications": [
+          "Personal License",
+          "Food Safety Level 3",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 12.99,
+          "max": 31.75
+        }
+      },
+      "metrics": {
+        "rating": 4.0,
+        "total_shifts": 194,
+        "completion_rate": 0.93
+      },
+      "account_status": "Active",
+      "registration_date": "2023-10-29",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "c4c8843c-c7fc-4275-a9cb-696d60691301",
+      "profile": {
+        "full_name": "Staff Member 5914",
+        "email": "staff9609@example.com",
+        "phone": "+223042358591",
+        "profile_photo": "staff_photo_2555.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 1",
+        "coordinates": {
+          "latitude": -74.132954,
+          "longitude": -76.156134
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Waiting"
+        ],
+        "certifications": [
+          "Food Safety Level 2",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 15.75,
+          "max": 20.78
+        }
+      },
+      "metrics": {
+        "rating": 4.8,
+        "total_shifts": 44,
+        "completion_rate": 0.9
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-08-16",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "408ed0fb-0c01-4a9d-8f40-639397bfc1f4",
+      "profile": {
+        "full_name": "Staff Member 7063",
+        "email": "staff4001@example.com",
+        "phone": "+106862325636",
+        "profile_photo": "staff_photo_3281.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 4",
+        "coordinates": {
+          "latitude": -51.1587,
+          "longitude": 53.128468
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Hosting"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "Customer Service Excellence",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 12.13,
+          "max": 24.32
+        }
+      },
+      "metrics": {
+        "rating": 4.4,
+        "total_shifts": 59,
+        "completion_rate": 0.92
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-10-12",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "33f67717-1845-4670-82bd-2a2543f51101",
+      "profile": {
+        "full_name": "Staff Member 3596",
+        "email": "staff9458@example.com",
+        "phone": "+245103961072",
+        "profile_photo": "staff_photo_1876.jpg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 4",
+        "coordinates": {
+          "latitude": -37.84183,
+          "longitude": -177.844208
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Bartending",
+          "Chef"
+        ],
+        "certifications": [
+          "Customer Service Excellence",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 14.92,
+          "max": 24.26
+        }
+      },
+      "metrics": {
+        "rating": 4.2,
+        "total_shifts": 101,
+        "completion_rate": 0.86
+      },
+      "account_status": "Active",
+      "registration_date": "2024-09-02",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "5c14035c-c41a-4419-968b-43ad226186b6",
+      "profile": {
+        "full_name": "Staff Member 5193",
+        "email": "staff9413@example.com",
+        "phone": "+674548507928",
+        "profile_photo": "staff_photo_7253.jpg"
+      },
+      "location": {
+        "jurisdiction": "Australia",
+        "city": "Australia City 4",
+        "coordinates": {
+          "latitude": -34.531899,
+          "longitude": -155.795901
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Sommelier",
+          "Bartending",
+          "Kitchen Porter",
+          "Hosting"
+        ],
+        "certifications": [
+          "Fire Safety",
+          "Health and Safety",
+          "First Aid",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 14.07,
+          "max": 34.9
+        }
+      },
+      "metrics": {
+        "rating": 3.6,
+        "total_shifts": 162,
+        "completion_rate": 0.85
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-01-30",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "c78acb62-0bbe-4eb4-9095-ab17f70a8054",
+      "profile": {
+        "full_name": "Staff Member 3721",
+        "email": "staff8534@example.com",
+        "phone": "+164201419144",
+        "profile_photo": "staff_photo_9812.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 4",
+        "coordinates": {
+          "latitude": -25.419847,
+          "longitude": 158.502892
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Chef",
+          "Waiting"
+        ],
+        "certifications": [
+          "Food Safety Level 2"
+        ],
+        "hourly_rate": {
+          "min": 16.11,
+          "max": 22.18
+        }
+      },
+      "metrics": {
+        "rating": 4.3,
+        "total_shifts": 167,
+        "completion_rate": 0.88
+      },
+      "account_status": "Active",
+      "registration_date": "2023-09-30",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "ffb5fa07-af5d-4f15-afb2-f83bbf6c9175",
+      "profile": {
+        "full_name": "Staff Member 1471",
+        "email": "staff1275@example.com",
+        "phone": "+975426652070",
+        "profile_photo": "staff_photo_4419.jpg"
+      },
+      "location": {
+        "jurisdiction": "Australia",
+        "city": "Australia City 5",
+        "coordinates": {
+          "latitude": -72.171512,
+          "longitude": -177.299208
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Hosting",
+          "Chef",
+          "Kitchen Porter",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "First Aid",
+          "Health and Safety",
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 17.92,
+          "max": 19.9
+        }
+      },
+      "metrics": {
+        "rating": 3.6,
+        "total_shifts": 172,
+        "completion_rate": 0.89
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-09-25",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "b3f16fc5-8ab5-41e9-88cd-b071a9fd1828",
+      "profile": {
+        "full_name": "Staff Member 5070",
+        "email": "staff5187@example.com",
+        "phone": "+488775686791",
+        "profile_photo": "staff_photo_8516.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 2",
+        "coordinates": {
+          "latitude": 35.502018,
+          "longitude": -60.60263
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Event Coordinator",
+          "Chef"
+        ],
+        "certifications": [
+          "Personal License",
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 16.23,
+          "max": 22.21
+        }
+      },
+      "metrics": {
+        "rating": 4.0,
+        "total_shifts": 25,
+        "completion_rate": 0.94
+      },
+      "account_status": "Active",
+      "registration_date": "2023-01-31",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "167c4543-fd92-4775-9f78-d0e8755f9ea6",
+      "profile": {
+        "full_name": "Staff Member 9611",
+        "email": "staff4778@example.com",
+        "phone": "+322377501662",
+        "profile_photo": "staff_photo_2372.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 4",
+        "coordinates": {
+          "latitude": -82.401651,
+          "longitude": -90.018597
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Event Coordinator",
+          "Waiting",
+          "Sommelier",
+          "Hosting",
+          "Bartending"
+        ],
+        "certifications": [
+          "First Aid",
+          "Health and Safety",
+          "Food Safety Level 2"
+        ],
+        "hourly_rate": {
+          "min": 17.88,
+          "max": 19.56
+        }
+      },
+      "metrics": {
+        "rating": 4.9,
+        "total_shifts": 115,
+        "completion_rate": 0.88
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-03-28",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "772e8639-148f-45f1-b3c4-5e6740b04e21",
+      "profile": {
+        "full_name": "Staff Member 3805",
+        "email": "staff9878@example.com",
+        "phone": "+998012243510",
+        "profile_photo": "staff_photo_4062.jpg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 1",
+        "coordinates": {
+          "latitude": 78.834913,
+          "longitude": -132.346312
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Kitchen Porter"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "Food Safety Level 2",
+          "Personal License",
+          "First Aid"
+        ],
+        "hourly_rate": {
+          "min": 14.09,
+          "max": 26.39
+        }
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_shifts": 95,
+        "completion_rate": 0.93
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-11-09",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "9b7e25a2-517a-4748-a136-a1994228c535",
+      "profile": {
+        "full_name": "Staff Member 6994",
+        "email": "staff6540@example.com",
+        "phone": "+539522102787",
+        "profile_photo": "staff_photo_9526.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 3",
+        "coordinates": {
+          "latitude": 56.110356,
+          "longitude": -124.053564
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Barista",
+          "Hosting",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Food Safety Level 2",
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 12.38,
+          "max": 31.91
+        }
+      },
+      "metrics": {
+        "rating": 3.8,
+        "total_shifts": 147,
+        "completion_rate": 0.89
+      },
+      "account_status": "Active",
+      "registration_date": "2023-08-22",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "bcab7b76-d639-4016-8b05-b699de639c25",
+      "profile": {
+        "full_name": "Staff Member 2226",
+        "email": "staff1324@example.com",
+        "phone": "+452426309134",
+        "profile_photo": "staff_photo_7260.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 5",
+        "coordinates": {
+          "latitude": 39.024745,
+          "longitude": -25.806164
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Chef",
+          "Waiting",
+          "Barista"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 12.08,
+          "max": 30.35
+        }
+      },
+      "metrics": {
+        "rating": 3.8,
+        "total_shifts": 192,
+        "completion_rate": 0.9
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-06-14",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "b539063b-8a77-478f-ae79-903f6dd10f40",
+      "profile": {
+        "full_name": "Staff Member 6725",
+        "email": "staff5872@example.com",
+        "phone": "+876189590399",
+        "profile_photo": "staff_photo_5011.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 2",
+        "coordinates": {
+          "latitude": -58.829632,
+          "longitude": -8.086088
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Bartending",
+          "Restaurant Manager",
+          "Food Runner",
+          "Waiting",
+          "Kitchen Porter"
+        ],
+        "certifications": [
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 12.68,
+          "max": 29.33
+        }
+      },
+      "metrics": {
+        "rating": 4.3,
+        "total_shifts": 151,
+        "completion_rate": 0.97
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-02-21",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "bc21e694-7025-42e0-b481-7f3e87af9f2d",
+      "profile": {
+        "full_name": "Staff Member 8367",
+        "email": "staff1610@example.com",
+        "phone": "+314969881498",
+        "profile_photo": "staff_photo_3012.jpg"
+      },
+      "location": {
+        "jurisdiction": "Germany",
+        "city": "Germany City 3",
+        "coordinates": {
+          "latitude": -84.247551,
+          "longitude": 4.328039
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Hosting",
+          "Chef"
+        ],
+        "certifications": [
+          "Personal License",
+          "Customer Service Excellence",
+          "Food Safety Level 2",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 14.5,
+          "max": 30.63
+        }
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_shifts": 76,
+        "completion_rate": 0.9
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-07-19",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "3882d2c2-45c6-4dd4-8a17-291fde949528",
+      "profile": {
+        "full_name": "Staff Member 7066",
+        "email": "staff1103@example.com",
+        "phone": "+331971956923",
+        "profile_photo": "staff_photo_9718.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 4",
+        "coordinates": {
+          "latitude": -52.244559,
+          "longitude": -124.24538
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Bartending",
+          "Hosting",
+          "Barista",
+          "Kitchen Porter",
+          "Food Runner"
+        ],
+        "certifications": [
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 13.23,
+          "max": 29.74
+        }
+      },
+      "metrics": {
+        "rating": 4.8,
+        "total_shifts": 113,
+        "completion_rate": 0.88
+      },
+      "account_status": "Active",
+      "registration_date": "2024-02-18",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "9d14d00c-9e80-4f3b-bc65-4c8b928448d8",
+      "profile": {
+        "full_name": "Staff Member 1474",
+        "email": "staff9607@example.com",
+        "phone": "+625963767851",
+        "profile_photo": "staff_photo_6018.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 3",
+        "coordinates": {
+          "latitude": -23.133359,
+          "longitude": 88.88216
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Restaurant Manager",
+          "Barista",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "Personal License",
+          "Food Safety Level 2"
+        ],
+        "hourly_rate": {
+          "min": 13.02,
+          "max": 33.75
+        }
+      },
+      "metrics": {
+        "rating": 4.7,
+        "total_shifts": 60,
+        "completion_rate": 0.89
+      },
+      "account_status": "Active",
+      "registration_date": "2023-09-08",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "5b063ef9-9790-4494-8f78-7ce23af5cefe",
+      "profile": {
+        "full_name": "Staff Member 3984",
+        "email": "staff2343@example.com",
+        "phone": "+321165830730",
+        "profile_photo": "staff_photo_8905.jpg"
+      },
+      "location": {
+        "jurisdiction": "Netherlands",
+        "city": "Netherlands City 2",
+        "coordinates": {
+          "latitude": 23.493655,
+          "longitude": 109.13321
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Sommelier",
+          "Food Runner",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 17.57,
+          "max": 33.32
+        }
+      },
+      "metrics": {
+        "rating": 3.7,
+        "total_shifts": 130,
+        "completion_rate": 0.98
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-08-28",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "fe5284a0-1848-4496-afc9-e915d83f72ce",
+      "profile": {
+        "full_name": "Staff Member 2696",
+        "email": "staff3632@example.com",
+        "phone": "+86987707180",
+        "profile_photo": "staff_photo_2501.jpg"
+      },
+      "location": {
+        "jurisdiction": "Australia",
+        "city": "Australia City 2",
+        "coordinates": {
+          "latitude": -74.699734,
+          "longitude": 68.144058
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Hosting",
+          "Restaurant Manager",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "Food Safety Level 2",
+          "First Aid",
+          "Food Safety Level 3",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 17.05,
+          "max": 33.13
+        }
+      },
+      "metrics": {
+        "rating": 3.6,
+        "total_shifts": 189,
+        "completion_rate": 0.93
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-05-20",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "62f7f598-7764-4d98-8b37-b3597baac316",
+      "profile": {
+        "full_name": "Staff Member 6627",
+        "email": "staff4143@example.com",
+        "phone": "+394540486644",
+        "profile_photo": "staff_photo_5049.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 3",
+        "coordinates": {
+          "latitude": 68.144036,
+          "longitude": -31.769361
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Barista"
+        ],
+        "certifications": [
+          "First Aid"
+        ],
+        "hourly_rate": {
+          "min": 14.39,
+          "max": 31.65
+        }
+      },
+      "metrics": {
+        "rating": 3.7,
+        "total_shifts": 37,
+        "completion_rate": 0.96
+      },
+      "account_status": "Active",
+      "registration_date": "2023-11-01",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "b6667dcd-6b7f-44a7-b6b4-1d0447c476cd",
+      "profile": {
+        "full_name": "Staff Member 2497",
+        "email": "staff8943@example.com",
+        "phone": "+622391788614",
+        "profile_photo": "staff_photo_3353.jpg"
+      },
+      "location": {
+        "jurisdiction": "Germany",
+        "city": "Germany City 2",
+        "coordinates": {
+          "latitude": 82.825955,
+          "longitude": -105.544702
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Barista",
+          "Restaurant Manager"
+        ],
+        "certifications": [
+          "First Aid",
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 13.99,
+          "max": 30.16
+        }
+      },
+      "metrics": {
+        "rating": 4.4,
+        "total_shifts": 94,
+        "completion_rate": 0.99
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-07-21",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "7b214a49-45cd-4df9-86ee-dd4dfe87c26a",
+      "profile": {
+        "full_name": "Staff Member 3069",
+        "email": "staff7968@example.com",
+        "phone": "+437376387911",
+        "profile_photo": "staff_photo_5622.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 3",
+        "coordinates": {
+          "latitude": 75.864485,
+          "longitude": -96.046441
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Hosting",
+          "Food Runner",
+          "Sommelier",
+          "Waiting",
+          "Kitchen Porter"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "Personal License",
+          "Food Safety Level 3",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 16.21,
+          "max": 25.94
+        }
+      },
+      "metrics": {
+        "rating": 3.6,
+        "total_shifts": 78,
+        "completion_rate": 0.86
+      },
+      "account_status": "Active",
+      "registration_date": "2024-11-01",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "acd219bc-1adc-4f34-9b98-51a514c9fc1d",
+      "profile": {
+        "full_name": "Staff Member 5077",
+        "email": "staff3462@example.com",
+        "phone": "+905976966585",
+        "profile_photo": "staff_photo_4727.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 1",
+        "coordinates": {
+          "latitude": 52.201539,
+          "longitude": -115.118991
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Waiting",
+          "Food Runner",
+          "Sommelier",
+          "Bartending"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Personal License",
+          "First Aid",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 12.8,
+          "max": 32.9
+        }
+      },
+      "metrics": {
+        "rating": 4.8,
+        "total_shifts": 120,
+        "completion_rate": 0.86
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-05-16",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "d96292dd-5d6a-4e58-9658-a92bd2c6146a",
+      "profile": {
+        "full_name": "Staff Member 3219",
+        "email": "staff5837@example.com",
+        "phone": "+578253157527",
+        "profile_photo": "staff_photo_9492.jpg"
+      },
+      "location": {
+        "jurisdiction": "Germany",
+        "city": "Germany City 2",
+        "coordinates": {
+          "latitude": -37.952945,
+          "longitude": 90.418736
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Kitchen Porter"
+        ],
+        "certifications": [
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 15.9,
+          "max": 23.5
+        }
+      },
+      "metrics": {
+        "rating": 4.6,
+        "total_shifts": 112,
+        "completion_rate": 0.88
+      },
+      "account_status": "Active",
+      "registration_date": "2024-09-19",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "c3fad0b6-596c-42a9-a457-9bd8c6b978cc",
+      "profile": {
+        "full_name": "Staff Member 3970",
+        "email": "staff9828@example.com",
+        "phone": "+908739176116",
+        "profile_photo": "staff_photo_9905.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 2",
+        "coordinates": {
+          "latitude": -61.276449,
+          "longitude": 85.546019
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Waiting",
+          "Hosting",
+          "Barista"
+        ],
+        "certifications": [
+          "Personal License",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 12.91,
+          "max": 25.09
+        }
+      },
+      "metrics": {
+        "rating": 3.7,
+        "total_shifts": 156,
+        "completion_rate": 0.93
+      },
+      "account_status": "Active",
+      "registration_date": "2024-02-11",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "57b9536c-32b9-4c0b-bc80-da7aa4d18b1c",
+      "profile": {
+        "full_name": "Staff Member 5862",
+        "email": "staff5691@example.com",
+        "phone": "+716386869539",
+        "profile_photo": "staff_photo_2821.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 5",
+        "coordinates": {
+          "latitude": 30.928513,
+          "longitude": -66.972669
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Bartending",
+          "Chef",
+          "Event Coordinator",
+          "Sommelier",
+          "Restaurant Manager"
+        ],
+        "certifications": [
+          "First Aid",
+          "Health and Safety",
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 13.88,
+          "max": 19.8
+        }
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_shifts": 84,
+        "completion_rate": 0.99
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-01-30",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "b376711d-3868-4ff0-8c3d-2221bd161044",
+      "profile": {
+        "full_name": "Staff Member 3116",
+        "email": "staff1240@example.com",
+        "phone": "+985835594672",
+        "profile_photo": "staff_photo_9028.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 2",
+        "coordinates": {
+          "latitude": -83.966293,
+          "longitude": -66.658567
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Food Runner",
+          "Waiting",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "First Aid",
+          "Food Safety Level 2",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 15.03,
+          "max": 32.72
+        }
+      },
+      "metrics": {
+        "rating": 4.2,
+        "total_shifts": 98,
+        "completion_rate": 0.95
+      },
+      "account_status": "Active",
+      "registration_date": "2024-10-28",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "5f4550df-ab37-43fe-8f2b-fe2f332cb201",
+      "profile": {
+        "full_name": "Staff Member 4446",
+        "email": "staff3014@example.com",
+        "phone": "+649639053747",
+        "profile_photo": "staff_photo_4742.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 5",
+        "coordinates": {
+          "latitude": 66.593821,
+          "longitude": -75.104169
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Sommelier",
+          "Event Coordinator",
+          "Waiting"
+        ],
+        "certifications": [
+          "Customer Service Excellence",
+          "Food Safety Level 2",
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 17.78,
+          "max": 21.05
+        }
+      },
+      "metrics": {
+        "rating": 4.0,
+        "total_shifts": 144,
+        "completion_rate": 0.98
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-04-27",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "e8c4444b-8270-40f9-8ddc-a3995718f235",
+      "profile": {
+        "full_name": "Staff Member 8146",
+        "email": "staff3164@example.com",
+        "phone": "+14789731712",
+        "profile_photo": "staff_photo_1578.jpg"
+      },
+      "location": {
+        "jurisdiction": "Germany",
+        "city": "Germany City 1",
+        "coordinates": {
+          "latitude": -20.937893,
+          "longitude": 151.926113
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Hosting",
+          "Sommelier"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 13.0,
+          "max": 32.53
+        }
+      },
+      "metrics": {
+        "rating": 4.9,
+        "total_shifts": 99,
+        "completion_rate": 0.87
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-01-08",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "70593e4b-1a6f-4d17-961f-6d9402d70add",
+      "profile": {
+        "full_name": "Staff Member 6347",
+        "email": "staff6716@example.com",
+        "phone": "+259109748933",
+        "profile_photo": "staff_photo_8687.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 1",
+        "coordinates": {
+          "latitude": 17.782883,
+          "longitude": 89.297722
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Barista",
+          "Waiting",
+          "Food Runner"
+        ],
+        "certifications": [
+          "Personal License",
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 14.62,
+          "max": 29.58
+        }
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_shifts": 98,
+        "completion_rate": 0.95
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-11-18",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "19c511c0-f92a-482a-8b61-a2e2fc4e0211",
+      "profile": {
+        "full_name": "Staff Member 2257",
+        "email": "staff8839@example.com",
+        "phone": "+326213259792",
+        "profile_photo": "staff_photo_2731.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 5",
+        "coordinates": {
+          "latitude": -1.625828,
+          "longitude": -79.955182
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Sommelier",
+          "Bartending",
+          "Restaurant Manager"
+        ],
+        "certifications": [
+          "Customer Service Excellence",
+          "Food Safety Level 2"
+        ],
+        "hourly_rate": {
+          "min": 14.9,
+          "max": 32.62
+        }
+      },
+      "metrics": {
+        "rating": 4.7,
+        "total_shifts": 188,
+        "completion_rate": 0.95
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-12-30",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "13b601c9-e8f2-4c9a-b32b-3a79d62aefc8",
+      "profile": {
+        "full_name": "Staff Member 9828",
+        "email": "staff6907@example.com",
+        "phone": "+79948154984",
+        "profile_photo": "staff_photo_9122.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 2",
+        "coordinates": {
+          "latitude": 67.127489,
+          "longitude": -128.447629
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Food Runner"
+        ],
+        "certifications": [
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 12.24,
+          "max": 22.27
+        }
+      },
+      "metrics": {
+        "rating": 4.4,
+        "total_shifts": 113,
+        "completion_rate": 0.86
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-10-10",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "dc7ef086-d237-4299-ae4b-0efb34b02201",
+      "profile": {
+        "full_name": "Staff Member 5038",
+        "email": "staff6900@example.com",
+        "phone": "+705318649025",
+        "profile_photo": "staff_photo_5942.jpg"
+      },
+      "location": {
+        "jurisdiction": "Germany",
+        "city": "Germany City 3",
+        "coordinates": {
+          "latitude": 77.18794,
+          "longitude": -19.985277
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Hosting",
+          "Chef",
+          "Food Runner",
+          "Kitchen Porter"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Food Safety Level 2",
+          "Personal License",
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 15.0,
+          "max": 23.71
+        }
+      },
+      "metrics": {
+        "rating": 4.4,
+        "total_shifts": 132,
+        "completion_rate": 0.98
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-11-27",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "f5493608-d420-433a-a6ca-fb44c789771e",
+      "profile": {
+        "full_name": "Staff Member 3402",
+        "email": "staff6730@example.com",
+        "phone": "+175161344838",
+        "profile_photo": "staff_photo_2570.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 1",
+        "coordinates": {
+          "latitude": -50.160331,
+          "longitude": -5.658624
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Kitchen Porter",
+          "Chef"
+        ],
+        "certifications": [
+          "Food Safety Level 2",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 17.51,
+          "max": 32.67
+        }
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_shifts": 117,
+        "completion_rate": 0.91
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-04-27",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "dea9de2a-983b-4ffd-a9ed-304a1bb69b73",
+      "profile": {
+        "full_name": "Staff Member 4816",
+        "email": "staff3680@example.com",
+        "phone": "+562361030740",
+        "profile_photo": "staff_photo_5977.jpg"
+      },
+      "location": {
+        "jurisdiction": "Germany",
+        "city": "Germany City 4",
+        "coordinates": {
+          "latitude": 53.496419,
+          "longitude": 124.451374
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Kitchen Porter",
+          "Hosting",
+          "Food Runner"
+        ],
+        "certifications": [
+          "Fire Safety",
+          "Health and Safety",
+          "Personal License",
+          "Food Safety Level 2"
+        ],
+        "hourly_rate": {
+          "min": 12.55,
+          "max": 26.55
+        }
+      },
+      "metrics": {
+        "rating": 4.1,
+        "total_shifts": 146,
+        "completion_rate": 0.98
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-06-02",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "df6f7c6b-6afc-489d-bf2b-af80dd0523e3",
+      "profile": {
+        "full_name": "Staff Member 4828",
+        "email": "staff5311@example.com",
+        "phone": "+29063544753",
+        "profile_photo": "staff_photo_2926.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 1",
+        "coordinates": {
+          "latitude": -47.22267,
+          "longitude": -116.516577
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Bartending",
+          "Barista"
+        ],
+        "certifications": [
+          "Personal License",
+          "Food Safety Level 2",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 14.28,
+          "max": 22.76
+        }
+      },
+      "metrics": {
+        "rating": 4.4,
+        "total_shifts": 156,
+        "completion_rate": 0.92
+      },
+      "account_status": "Active",
+      "registration_date": "2024-11-18",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "09b2d7c7-ceaa-4bdc-8d61-d50c6444b3df",
+      "profile": {
+        "full_name": "Staff Member 4216",
+        "email": "staff8595@example.com",
+        "phone": "+576265092670",
+        "profile_photo": "staff_photo_5766.jpg"
+      },
+      "location": {
+        "jurisdiction": "Australia",
+        "city": "Australia City 4",
+        "coordinates": {
+          "latitude": -40.742423,
+          "longitude": -72.651339
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "First Aid"
+        ],
+        "hourly_rate": {
+          "min": 17.87,
+          "max": 32.43
+        }
+      },
+      "metrics": {
+        "rating": 4.3,
+        "total_shifts": 111,
+        "completion_rate": 0.87
+      },
+      "account_status": "Active",
+      "registration_date": "2024-03-16",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "96b8f358-b0b1-4b16-b218-c7801e9de87a",
+      "profile": {
+        "full_name": "Staff Member 1101",
+        "email": "staff9653@example.com",
+        "phone": "+677330412482",
+        "profile_photo": "staff_photo_8083.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 3",
+        "coordinates": {
+          "latitude": 63.210792,
+          "longitude": -97.382476
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Hosting",
+          "Kitchen Porter",
+          "Sommelier"
+        ],
+        "certifications": [
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 16.63,
+          "max": 28.77
+        }
+      },
+      "metrics": {
+        "rating": 4.2,
+        "total_shifts": 64,
+        "completion_rate": 0.87
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-09-28",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "37ed836d-1313-43ea-9d03-878e95a0fd4d",
+      "profile": {
+        "full_name": "Staff Member 9156",
+        "email": "staff5406@example.com",
+        "phone": "+337707993600",
+        "profile_photo": "staff_photo_7152.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 1",
+        "coordinates": {
+          "latitude": 29.144281,
+          "longitude": -155.564483
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Sommelier",
+          "Waiting",
+          "Chef",
+          "Kitchen Porter",
+          "Barista"
+        ],
+        "certifications": [
+          "Fire Safety",
+          "First Aid",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 17.88,
+          "max": 19.56
+        }
+      },
+      "metrics": {
+        "rating": 4.8,
+        "total_shifts": 52,
+        "completion_rate": 0.89
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-08-12",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "0cd5fac4-557d-4390-a5a4-692040fe5f6f",
+      "profile": {
+        "full_name": "Staff Member 8664",
+        "email": "staff4682@example.com",
+        "phone": "+659286962340",
+        "profile_photo": "staff_photo_8128.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 1",
+        "coordinates": {
+          "latitude": 2.847618,
+          "longitude": 11.405099
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Event Coordinator",
+          "Chef",
+          "Restaurant Manager"
+        ],
+        "certifications": [
+          "Fire Safety",
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 14.51,
+          "max": 24.85
+        }
+      },
+      "metrics": {
+        "rating": 4.3,
+        "total_shifts": 172,
+        "completion_rate": 0.96
+      },
+      "account_status": "Active",
+      "registration_date": "2023-01-13",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "42919d61-559e-4a8a-ac96-4e086538464a",
+      "profile": {
+        "full_name": "Staff Member 4531",
+        "email": "staff8078@example.com",
+        "phone": "+25017689461",
+        "profile_photo": "staff_photo_8472.jpg"
+      },
+      "location": {
+        "jurisdiction": "Australia",
+        "city": "Australia City 2",
+        "coordinates": {
+          "latitude": 28.780655,
+          "longitude": 21.693141
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Event Coordinator",
+          "Food Runner",
+          "Chef",
+          "Bartending",
+          "Waiting"
+        ],
+        "certifications": [
+          "First Aid",
+          "Customer Service Excellence",
+          "Food Safety Level 2",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 15.2,
+          "max": 26.04
+        }
+      },
+      "metrics": {
+        "rating": 5.0,
+        "total_shifts": 199,
+        "completion_rate": 0.96
+      },
+      "account_status": "Active",
+      "registration_date": "2023-11-06",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "72592e79-a851-4271-b853-1df464503e21",
+      "profile": {
+        "full_name": "Staff Member 1095",
+        "email": "staff2233@example.com",
+        "phone": "+582606014559",
+        "profile_photo": "staff_photo_9316.jpg"
+      },
+      "location": {
+        "jurisdiction": "Australia",
+        "city": "Australia City 4",
+        "coordinates": {
+          "latitude": -29.383701,
+          "longitude": -57.841593
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Event Coordinator",
+          "Hosting"
+        ],
+        "certifications": [
+          "Personal License",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 14.54,
+          "max": 20.71
+        }
+      },
+      "metrics": {
+        "rating": 4.1,
+        "total_shifts": 181,
+        "completion_rate": 0.88
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-05-05",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "c7b7de62-0f86-454e-b237-cb773f7e978a",
+      "profile": {
+        "full_name": "Staff Member 6554",
+        "email": "staff2335@example.com",
+        "phone": "+372017946874",
+        "profile_photo": "staff_photo_1828.jpg"
+      },
+      "location": {
+        "jurisdiction": "Netherlands",
+        "city": "Netherlands City 2",
+        "coordinates": {
+          "latitude": -76.555119,
+          "longitude": 69.378825
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Event Coordinator",
+          "Sommelier",
+          "Hosting",
+          "Chef"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Personal License",
+          "Health and Safety",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 14.16,
+          "max": 25.2
+        }
+      },
+      "metrics": {
+        "rating": 4.1,
+        "total_shifts": 166,
+        "completion_rate": 0.99
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-07-02",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "efdb0ef4-5f94-4481-94c1-3640b12159e0",
+      "profile": {
+        "full_name": "Staff Member 9646",
+        "email": "staff5110@example.com",
+        "phone": "+979630317097",
+        "profile_photo": "staff_photo_9293.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 5",
+        "coordinates": {
+          "latitude": 24.038112,
+          "longitude": 67.080385
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Kitchen Porter",
+          "Bartending"
+        ],
+        "certifications": [
+          "Customer Service Excellence",
+          "Health and Safety",
+          "Fire Safety",
+          "Food Safety Level 2"
+        ],
+        "hourly_rate": {
+          "min": 15.09,
+          "max": 21.19
+        }
+      },
+      "metrics": {
+        "rating": 4.7,
+        "total_shifts": 104,
+        "completion_rate": 0.93
+      },
+      "account_status": "Active",
+      "registration_date": "2023-12-03",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "8c2556d6-6a8e-438d-b2ab-193079d678d5",
+      "profile": {
+        "full_name": "Staff Member 1388",
+        "email": "staff4599@example.com",
+        "phone": "+147839879530",
+        "profile_photo": "staff_photo_9134.jpg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 4",
+        "coordinates": {
+          "latitude": -62.159782,
+          "longitude": 15.4425
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Event Coordinator",
+          "Sommelier",
+          "Chef"
+        ],
+        "certifications": [
+          "First Aid",
+          "Food Safety Level 3",
+          "Health and Safety",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 12.78,
+          "max": 31.64
+        }
+      },
+      "metrics": {
+        "rating": 4.8,
+        "total_shifts": 192,
+        "completion_rate": 0.97
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-06-03",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "8ace5122-a612-4f2b-817b-b8fd29bceec2",
+      "profile": {
+        "full_name": "Staff Member 3254",
+        "email": "staff7806@example.com",
+        "phone": "+918727126023",
+        "profile_photo": "staff_photo_8905.jpg"
+      },
+      "location": {
+        "jurisdiction": "Netherlands",
+        "city": "Netherlands City 2",
+        "coordinates": {
+          "latitude": -38.684146,
+          "longitude": 93.187724
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Hosting",
+          "Waiting",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "Fire Safety",
+          "Personal License",
+          "First Aid",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 14.91,
+          "max": 28.23
+        }
+      },
+      "metrics": {
+        "rating": 4.9,
+        "total_shifts": 102,
+        "completion_rate": 0.87
+      },
+      "account_status": "Active",
+      "registration_date": "2023-04-01",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "8b8ce2b5-72d2-4e23-a84a-97e251a02b90",
+      "profile": {
+        "full_name": "Staff Member 1063",
+        "email": "staff4761@example.com",
+        "phone": "+624432767346",
+        "profile_photo": "staff_photo_1382.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 3",
+        "coordinates": {
+          "latitude": -89.229244,
+          "longitude": -72.906395
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Food Runner"
+        ],
+        "certifications": [
+          "Food Safety Level 2",
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 16.34,
+          "max": 31.99
+        }
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_shifts": 128,
+        "completion_rate": 0.94
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-09-24",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "fd363daa-b25d-4ef4-967c-cb25cae2d48f",
+      "profile": {
+        "full_name": "Staff Member 2838",
+        "email": "staff5912@example.com",
+        "phone": "+136625171851",
+        "profile_photo": "staff_photo_7928.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 4",
+        "coordinates": {
+          "latitude": -16.558975,
+          "longitude": -140.929486
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Event Coordinator",
+          "Sommelier",
+          "Barista",
+          "Bartending"
+        ],
+        "certifications": [
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 16.47,
+          "max": 21.55
+        }
+      },
+      "metrics": {
+        "rating": 4.7,
+        "total_shifts": 143,
+        "completion_rate": 1.0
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-08-19",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "4d816e79-9b5d-4908-a961-6c315a9970c8",
+      "profile": {
+        "full_name": "Staff Member 8952",
+        "email": "staff4642@example.com",
+        "phone": "+819546690969",
+        "profile_photo": "staff_photo_3901.jpg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 4",
+        "coordinates": {
+          "latitude": 83.019207,
+          "longitude": -178.136194
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Barista",
+          "Restaurant Manager",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "First Aid",
+          "Health and Safety",
+          "Customer Service Excellence",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 17.9,
+          "max": 28.93
+        }
+      },
+      "metrics": {
+        "rating": 4.0,
+        "total_shifts": 95,
+        "completion_rate": 0.87
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-01-25",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "c8c4d79a-de6b-423e-b3f8-1aae631091c8",
+      "profile": {
+        "full_name": "Staff Member 1368",
+        "email": "staff9996@example.com",
+        "phone": "+49365697693",
+        "profile_photo": "staff_photo_9727.jpg"
+      },
+      "location": {
+        "jurisdiction": "Netherlands",
+        "city": "Netherlands City 4",
+        "coordinates": {
+          "latitude": -61.441391,
+          "longitude": -103.940768
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Bartending",
+          "Restaurant Manager",
+          "Chef",
+          "Sommelier",
+          "Waiting"
+        ],
+        "certifications": [
+          "First Aid",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 12.28,
+          "max": 20.86
+        }
+      },
+      "metrics": {
+        "rating": 4.7,
+        "total_shifts": 110,
+        "completion_rate": 0.87
+      },
+      "account_status": "Active",
+      "registration_date": "2024-01-20",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "5f8dd8ad-367b-4a38-a751-bb300722636b",
+      "profile": {
+        "full_name": "Staff Member 6020",
+        "email": "staff8881@example.com",
+        "phone": "+389671336500",
+        "profile_photo": "staff_photo_7532.jpg"
+      },
+      "location": {
+        "jurisdiction": "Netherlands",
+        "city": "Netherlands City 4",
+        "coordinates": {
+          "latitude": -83.91048,
+          "longitude": 152.375105
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Barista"
+        ],
+        "certifications": [
+          "Personal License",
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 17.32,
+          "max": 24.82
+        }
+      },
+      "metrics": {
+        "rating": 4.1,
+        "total_shifts": 64,
+        "completion_rate": 0.92
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-02-19",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "d83f7c14-eaa9-4808-8c6c-2e44cc507fdb",
+      "profile": {
+        "full_name": "Staff Member 5986",
+        "email": "staff6899@example.com",
+        "phone": "+19566544584",
+        "profile_photo": "staff_photo_8290.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 2",
+        "coordinates": {
+          "latitude": -31.71692,
+          "longitude": 112.019073
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Barista",
+          "Event Coordinator",
+          "Waiting",
+          "Kitchen Porter"
+        ],
+        "certifications": [
+          "Personal License",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 15.14,
+          "max": 22.33
+        }
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_shifts": 199,
+        "completion_rate": 0.97
+      },
+      "account_status": "Active",
+      "registration_date": "2023-06-30",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "c13c7c1e-4b3f-41b9-a520-e5148e2bf247",
+      "profile": {
+        "full_name": "Staff Member 4178",
+        "email": "staff8031@example.com",
+        "phone": "+269979142460",
+        "profile_photo": "staff_photo_5217.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 2",
+        "coordinates": {
+          "latitude": -60.527049,
+          "longitude": 94.284364
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Sommelier",
+          "Barista",
+          "Restaurant Manager",
+          "Hosting"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Food Safety Level 2"
+        ],
+        "hourly_rate": {
+          "min": 14.35,
+          "max": 27.69
+        }
+      },
+      "metrics": {
+        "rating": 4.6,
+        "total_shifts": 138,
+        "completion_rate": 0.87
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-05-24",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "f115ba5d-574b-4ae1-b1e2-1593a4001359",
+      "profile": {
+        "full_name": "Staff Member 4625",
+        "email": "staff9928@example.com",
+        "phone": "+137549188410",
+        "profile_photo": "staff_photo_6519.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 4",
+        "coordinates": {
+          "latitude": -45.974509,
+          "longitude": 126.988253
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Hosting",
+          "Bartending",
+          "Chef"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Food Safety Level 2",
+          "First Aid"
+        ],
+        "hourly_rate": {
+          "min": 12.88,
+          "max": 19.33
+        }
+      },
+      "metrics": {
+        "rating": 3.9,
+        "total_shifts": 133,
+        "completion_rate": 0.98
+      },
+      "account_status": "Active",
+      "registration_date": "2024-12-05",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "9beb9376-dd13-47b5-b637-921ba6ca178a",
+      "profile": {
+        "full_name": "Staff Member 8386",
+        "email": "staff5999@example.com",
+        "phone": "+823005624926",
+        "profile_photo": "staff_photo_8977.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 3",
+        "coordinates": {
+          "latitude": 45.602111,
+          "longitude": 125.242558
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Chef",
+          "Event Coordinator",
+          "Sommelier",
+          "Bartending"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Food Safety Level 2",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 14.81,
+          "max": 30.41
+        }
+      },
+      "metrics": {
+        "rating": 3.9,
+        "total_shifts": 168,
+        "completion_rate": 0.99
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-11-24",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "3bddc36f-fb57-4b79-b5a9-feb4396cb631",
+      "profile": {
+        "full_name": "Staff Member 5586",
+        "email": "staff9330@example.com",
+        "phone": "+694447998643",
+        "profile_photo": "staff_photo_9819.jpg"
+      },
+      "location": {
+        "jurisdiction": "Netherlands",
+        "city": "Netherlands City 5",
+        "coordinates": {
+          "latitude": 67.908908,
+          "longitude": -38.518508
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Restaurant Manager"
+        ],
+        "certifications": [
+          "First Aid",
+          "Health and Safety",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 13.07,
+          "max": 21.19
+        }
+      },
+      "metrics": {
+        "rating": 3.7,
+        "total_shifts": 88,
+        "completion_rate": 0.97
+      },
+      "account_status": "Active",
+      "registration_date": "2024-07-07",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "6b8b49a6-41de-46b8-a41b-05c32683b5c1",
+      "profile": {
+        "full_name": "Staff Member 4218",
+        "email": "staff1084@example.com",
+        "phone": "+116670796765",
+        "profile_photo": "staff_photo_9847.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 5",
+        "coordinates": {
+          "latitude": -46.208074,
+          "longitude": -52.440472
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Kitchen Porter",
+          "Event Coordinator",
+          "Hosting"
+        ],
+        "certifications": [
+          "Fire Safety",
+          "Food Safety Level 3",
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 14.15,
+          "max": 29.21
+        }
+      },
+      "metrics": {
+        "rating": 4.8,
+        "total_shifts": 66,
+        "completion_rate": 0.99
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-03-20",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "afd52340-de43-4da5-8d83-aa83b657ccd1",
+      "profile": {
+        "full_name": "Staff Member 5746",
+        "email": "staff1347@example.com",
+        "phone": "+164128708123",
+        "profile_photo": "staff_photo_9041.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 3",
+        "coordinates": {
+          "latitude": -86.698504,
+          "longitude": 45.828484
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Sommelier",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 14.52,
+          "max": 25.57
+        }
+      },
+      "metrics": {
+        "rating": 4.2,
+        "total_shifts": 109,
+        "completion_rate": 0.98
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-01-21",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "416cccb5-c7c1-4318-a7c7-a525034f0958",
+      "profile": {
+        "full_name": "Staff Member 8901",
+        "email": "staff6196@example.com",
+        "phone": "+856226914115",
+        "profile_photo": "staff_photo_5341.jpg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 4",
+        "coordinates": {
+          "latitude": -87.623626,
+          "longitude": -74.247503
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Chef",
+          "Waiting",
+          "Kitchen Porter",
+          "Barista"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 17.06,
+          "max": 28.57
+        }
+      },
+      "metrics": {
+        "rating": 4.8,
+        "total_shifts": 66,
+        "completion_rate": 0.98
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-01-12",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "902cdf25-6069-443b-9edd-ab82b3c5ace3",
+      "profile": {
+        "full_name": "Staff Member 5505",
+        "email": "staff9212@example.com",
+        "phone": "+432398840594",
+        "profile_photo": "staff_photo_5669.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 5",
+        "coordinates": {
+          "latitude": -10.642901,
+          "longitude": -54.794161
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Sommelier"
+        ],
+        "certifications": [
+          "First Aid",
+          "Personal License",
+          "Food Safety Level 2",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 14.55,
+          "max": 20.86
+        }
+      },
+      "metrics": {
+        "rating": 3.8,
+        "total_shifts": 178,
+        "completion_rate": 0.89
+      },
+      "account_status": "Active",
+      "registration_date": "2023-08-26",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "65db5209-81dc-4d9f-b9b5-a707e93ec411",
+      "profile": {
+        "full_name": "Staff Member 2461",
+        "email": "staff9028@example.com",
+        "phone": "+907873607527",
+        "profile_photo": "staff_photo_9465.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 3",
+        "coordinates": {
+          "latitude": -88.249385,
+          "longitude": 161.218433
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Event Coordinator",
+          "Restaurant Manager",
+          "Kitchen Porter"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "Food Safety Level 3",
+          "First Aid",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 14.03,
+          "max": 27.72
+        }
+      },
+      "metrics": {
+        "rating": 3.6,
+        "total_shifts": 179,
+        "completion_rate": 0.97
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-04-19",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "c60f58fb-28fb-46f9-9de9-3becd947a12a",
+      "profile": {
+        "full_name": "Staff Member 8846",
+        "email": "staff5479@example.com",
+        "phone": "+172601126168",
+        "profile_photo": "staff_photo_1055.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 3",
+        "coordinates": {
+          "latitude": -32.00019,
+          "longitude": 37.558372
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Event Coordinator",
+          "Food Runner",
+          "Bartending"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "First Aid",
+          "Personal License",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 14.12,
+          "max": 29.5
+        }
+      },
+      "metrics": {
+        "rating": 4.4,
+        "total_shifts": 145,
+        "completion_rate": 1.0
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-06-23",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "120133f6-edd9-4835-a6ff-d189b011e93c",
+      "profile": {
+        "full_name": "Staff Member 3417",
+        "email": "staff2408@example.com",
+        "phone": "+816119592103",
+        "profile_photo": "staff_photo_9764.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 1",
+        "coordinates": {
+          "latitude": 1.551604,
+          "longitude": -58.736721
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "Personal License",
+          "Food Safety Level 2",
+          "First Aid"
+        ],
+        "hourly_rate": {
+          "min": 14.05,
+          "max": 22.18
+        }
+      },
+      "metrics": {
+        "rating": 4.2,
+        "total_shifts": 38,
+        "completion_rate": 0.96
+      },
+      "account_status": "Active",
+      "registration_date": "2023-08-31",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "54b2770b-9dc0-44fb-aa8b-83c875aaaded",
+      "profile": {
+        "full_name": "Staff Member 8983",
+        "email": "staff2911@example.com",
+        "phone": "+75984224008",
+        "profile_photo": "staff_photo_4592.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 5",
+        "coordinates": {
+          "latitude": 15.202574,
+          "longitude": 101.018445
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Barista",
+          "Hosting"
+        ],
+        "certifications": [
+          "Food Safety Level 2",
+          "Customer Service Excellence",
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 17.02,
+          "max": 29.72
+        }
+      },
+      "metrics": {
+        "rating": 4.1,
+        "total_shifts": 100,
+        "completion_rate": 0.91
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-11-30",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "1d8afefb-81f3-4d57-a00e-3f247a29402f",
+      "profile": {
+        "full_name": "Staff Member 1573",
+        "email": "staff8419@example.com",
+        "phone": "+802712141610",
+        "profile_photo": "staff_photo_3757.jpg"
+      },
+      "location": {
+        "jurisdiction": "Netherlands",
+        "city": "Netherlands City 2",
+        "coordinates": {
+          "latitude": 37.445638,
+          "longitude": -147.433105
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Sommelier",
+          "Bartending",
+          "Hosting",
+          "Chef",
+          "Restaurant Manager"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "First Aid"
+        ],
+        "hourly_rate": {
+          "min": 17.46,
+          "max": 23.55
+        }
+      },
+      "metrics": {
+        "rating": 3.7,
+        "total_shifts": 16,
+        "completion_rate": 0.89
+      },
+      "account_status": "Active",
+      "registration_date": "2024-09-02",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "b27670f2-566b-43d7-995e-6d040ede9ff6",
+      "profile": {
+        "full_name": "Staff Member 6794",
+        "email": "staff8968@example.com",
+        "phone": "+961097589558",
+        "profile_photo": "staff_photo_8174.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 3",
+        "coordinates": {
+          "latitude": 30.513822,
+          "longitude": -23.498287
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Sommelier",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 15.82,
+          "max": 31.11
+        }
+      },
+      "metrics": {
+        "rating": 4.0,
+        "total_shifts": 31,
+        "completion_rate": 0.95
+      },
+      "account_status": "Active",
+      "registration_date": "2024-07-27",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "4fcb82f5-cba0-48c1-b62c-c97b8631cd61",
+      "profile": {
+        "full_name": "Staff Member 9354",
+        "email": "staff9844@example.com",
+        "phone": "+919391388747",
+        "profile_photo": "staff_photo_3377.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 4",
+        "coordinates": {
+          "latitude": 65.975211,
+          "longitude": 68.683042
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Bartending",
+          "Waiting",
+          "Hosting",
+          "Food Runner"
+        ],
+        "certifications": [
+          "Personal License",
+          "Health and Safety",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 14.28,
+          "max": 29.95
+        }
+      },
+      "metrics": {
+        "rating": 4.6,
+        "total_shifts": 146,
+        "completion_rate": 0.92
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-12-21",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "abff2943-bef3-46e9-914d-a40834449180",
+      "profile": {
+        "full_name": "Staff Member 2474",
+        "email": "staff4496@example.com",
+        "phone": "+716598195590",
+        "profile_photo": "staff_photo_9188.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 4",
+        "coordinates": {
+          "latitude": 61.585992,
+          "longitude": -63.346154
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Waiting",
+          "Food Runner",
+          "Restaurant Manager"
+        ],
+        "certifications": [
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 12.84,
+          "max": 27.38
+        }
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_shifts": 117,
+        "completion_rate": 0.88
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-02-23",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "c6ac1d3c-eb95-40ab-b5c4-9129a6987876",
+      "profile": {
+        "full_name": "Staff Member 7416",
+        "email": "staff1221@example.com",
+        "phone": "+169147847309",
+        "profile_photo": "staff_photo_7795.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 1",
+        "coordinates": {
+          "latitude": 33.937659,
+          "longitude": 99.362508
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Waiting",
+          "Bartending",
+          "Food Runner"
+        ],
+        "certifications": [
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 15.51,
+          "max": 27.52
+        }
+      },
+      "metrics": {
+        "rating": 5.0,
+        "total_shifts": 145,
+        "completion_rate": 0.87
+      },
+      "account_status": "Active",
+      "registration_date": "2023-08-25",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "459557ab-3b4a-434d-93ff-09ee479bf341",
+      "profile": {
+        "full_name": "Staff Member 8982",
+        "email": "staff3074@example.com",
+        "phone": "+597243375535",
+        "profile_photo": "staff_photo_1769.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 1",
+        "coordinates": {
+          "latitude": -22.241923,
+          "longitude": -37.981413
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Sommelier",
+          "Hosting"
+        ],
+        "certifications": [
+          "Food Safety Level 2",
+          "Personal License",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 15.45,
+          "max": 29.93
+        }
+      },
+      "metrics": {
+        "rating": 3.7,
+        "total_shifts": 199,
+        "completion_rate": 0.97
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-05-30",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "8f8e1ea5-9a40-4768-943a-0d49684dd386",
+      "profile": {
+        "full_name": "Staff Member 1434",
+        "email": "staff8055@example.com",
+        "phone": "+186785719673",
+        "profile_photo": "staff_photo_5814.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 2",
+        "coordinates": {
+          "latitude": 10.539419,
+          "longitude": 30.646844
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Sommelier",
+          "Restaurant Manager",
+          "Waiting"
+        ],
+        "certifications": [
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 12.27,
+          "max": 24.75
+        }
+      },
+      "metrics": {
+        "rating": 3.9,
+        "total_shifts": 195,
+        "completion_rate": 0.92
+      },
+      "account_status": "Active",
+      "registration_date": "2023-04-05",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "26671381-0c49-459c-853a-6bf7e59d3176",
+      "profile": {
+        "full_name": "Staff Member 8560",
+        "email": "staff2866@example.com",
+        "phone": "+799172376664",
+        "profile_photo": "staff_photo_8096.jpg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 2",
+        "coordinates": {
+          "latitude": 1.477291,
+          "longitude": 34.533579
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Chef",
+          "Bartending",
+          "Hosting"
+        ],
+        "certifications": [
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 15.83,
+          "max": 34.09
+        }
+      },
+      "metrics": {
+        "rating": 3.6,
+        "total_shifts": 102,
+        "completion_rate": 0.89
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-12-12",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "ca48c4aa-3de3-4eae-838a-dbcc58a68410",
+      "profile": {
+        "full_name": "Staff Member 5530",
+        "email": "staff4886@example.com",
+        "phone": "+148977915595",
+        "profile_photo": "staff_photo_4634.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 1",
+        "coordinates": {
+          "latitude": 80.736268,
+          "longitude": -149.748395
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Waiting",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 15.98,
+          "max": 33.02
+        }
+      },
+      "metrics": {
+        "rating": 4.6,
+        "total_shifts": 24,
+        "completion_rate": 0.92
+      },
+      "account_status": "Active",
+      "registration_date": "2024-07-20",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "0bf79f8f-d357-41e7-a278-95fb4f9174aa",
+      "profile": {
+        "full_name": "Staff Member 8759",
+        "email": "staff2287@example.com",
+        "phone": "+426877006316",
+        "profile_photo": "staff_photo_4860.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 4",
+        "coordinates": {
+          "latitude": -6.345826,
+          "longitude": 7.82367
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Bartending"
+        ],
+        "certifications": [
+          "Fire Safety",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 12.55,
+          "max": 24.45
+        }
+      },
+      "metrics": {
+        "rating": 4.6,
+        "total_shifts": 106,
+        "completion_rate": 0.94
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-05-24",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "59df995e-7501-4fed-91a2-39e9aef97038",
+      "profile": {
+        "full_name": "Staff Member 5830",
+        "email": "staff9435@example.com",
+        "phone": "+314008962943",
+        "profile_photo": "staff_photo_6572.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 2",
+        "coordinates": {
+          "latitude": -79.862945,
+          "longitude": 148.644144
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Chef",
+          "Waiting",
+          "Hosting",
+          "Restaurant Manager"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "Personal License",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 15.42,
+          "max": 22.68
+        }
+      },
+      "metrics": {
+        "rating": 4.6,
+        "total_shifts": 163,
+        "completion_rate": 0.88
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-02-03",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "bcf21a39-ecb0-4da9-928c-09d9ff655824",
+      "profile": {
+        "full_name": "Staff Member 5161",
+        "email": "staff9693@example.com",
+        "phone": "+926181657097",
+        "profile_photo": "staff_photo_7092.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 5",
+        "coordinates": {
+          "latitude": 67.191062,
+          "longitude": 40.677094
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Sommelier",
+          "Restaurant Manager",
+          "Chef",
+          "Barista",
+          "Hosting"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "Customer Service Excellence",
+          "First Aid",
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 17.89,
+          "max": 26.83
+        }
+      },
+      "metrics": {
+        "rating": 4.9,
+        "total_shifts": 46,
+        "completion_rate": 0.87
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-02-20",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "a2089c4e-11ee-4cb3-bb1a-1c28dc488d44",
+      "profile": {
+        "full_name": "Staff Member 5895",
+        "email": "staff2487@example.com",
+        "phone": "+495778910136",
+        "profile_photo": "staff_photo_3385.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 5",
+        "coordinates": {
+          "latitude": -7.854554,
+          "longitude": -26.699035
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Hosting",
+          "Sommelier"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Food Safety Level 2",
+          "Customer Service Excellence",
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 15.08,
+          "max": 21.46
+        }
+      },
+      "metrics": {
+        "rating": 4.2,
+        "total_shifts": 69,
+        "completion_rate": 0.92
+      },
+      "account_status": "Active",
+      "registration_date": "2023-12-24",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "d23b2233-719f-4af6-8995-2725581c01d1",
+      "profile": {
+        "full_name": "Staff Member 3602",
+        "email": "staff6973@example.com",
+        "phone": "+803903290861",
+        "profile_photo": "staff_photo_1686.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 1",
+        "coordinates": {
+          "latitude": 23.773069,
+          "longitude": 43.242126
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Hosting",
+          "Food Runner",
+          "Kitchen Porter",
+          "Waiting"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "Food Safety Level 3",
+          "Personal License",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 17.75,
+          "max": 27.39
+        }
+      },
+      "metrics": {
+        "rating": 4.7,
+        "total_shifts": 116,
+        "completion_rate": 0.96
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-01-21",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "901ad9e2-0528-46c3-aba3-b5f5e6f587f9",
+      "profile": {
+        "full_name": "Staff Member 2990",
+        "email": "staff4351@example.com",
+        "phone": "+139858661094",
+        "profile_photo": "staff_photo_9953.jpg"
+      },
+      "location": {
+        "jurisdiction": "Netherlands",
+        "city": "Netherlands City 3",
+        "coordinates": {
+          "latitude": -86.579265,
+          "longitude": 19.39769
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Bartending",
+          "Chef",
+          "Kitchen Porter",
+          "Restaurant Manager"
+        ],
+        "certifications": [
+          "Customer Service Excellence",
+          "First Aid",
+          "Health and Safety",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 13.76,
+          "max": 27.6
+        }
+      },
+      "metrics": {
+        "rating": 4.8,
+        "total_shifts": 40,
+        "completion_rate": 0.91
+      },
+      "account_status": "Active",
+      "registration_date": "2023-10-05",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "d7b8412e-3ce5-4654-8b94-dc7ca4888fd2",
+      "profile": {
+        "full_name": "Staff Member 2857",
+        "email": "staff9216@example.com",
+        "phone": "+879724720935",
+        "profile_photo": "staff_photo_4569.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 3",
+        "coordinates": {
+          "latitude": -80.922762,
+          "longitude": 136.185583
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 15.01,
+          "max": 22.75
+        }
+      },
+      "metrics": {
+        "rating": 4.3,
+        "total_shifts": 35,
+        "completion_rate": 0.93
+      },
+      "account_status": "Active",
+      "registration_date": "2024-10-20",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "265bfd94-631b-4893-bb9b-b7892d5579ea",
+      "profile": {
+        "full_name": "Staff Member 7067",
+        "email": "staff5675@example.com",
+        "phone": "+642193176399",
+        "profile_photo": "staff_photo_8924.jpg"
+      },
+      "location": {
+        "jurisdiction": "Netherlands",
+        "city": "Netherlands City 3",
+        "coordinates": {
+          "latitude": -23.095712,
+          "longitude": 71.017638
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Event Coordinator",
+          "Barista",
+          "Bartending"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "Customer Service Excellence",
+          "First Aid",
+          "Food Safety Level 2"
+        ],
+        "hourly_rate": {
+          "min": 13.39,
+          "max": 23.39
+        }
+      },
+      "metrics": {
+        "rating": 4.0,
+        "total_shifts": 24,
+        "completion_rate": 0.9
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-04-27",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "a8cc4ac2-b993-4c2e-af99-ead905b2bd36",
+      "profile": {
+        "full_name": "Staff Member 9993",
+        "email": "staff3862@example.com",
+        "phone": "+439864104753",
+        "profile_photo": "staff_photo_3948.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 1",
+        "coordinates": {
+          "latitude": -86.390959,
+          "longitude": 65.24756
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Event Coordinator",
+          "Kitchen Porter",
+          "Restaurant Manager",
+          "Hosting"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 14.95,
+          "max": 23.77
+        }
+      },
+      "metrics": {
+        "rating": 4.3,
+        "total_shifts": 166,
+        "completion_rate": 0.86
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-08-25",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "8cee7024-ea4e-4d19-a29a-5c4d362b2a83",
+      "profile": {
+        "full_name": "Staff Member 6235",
+        "email": "staff1504@example.com",
+        "phone": "+726068619019",
+        "profile_photo": "staff_photo_7249.jpg"
+      },
+      "location": {
+        "jurisdiction": "Australia",
+        "city": "Australia City 2",
+        "coordinates": {
+          "latitude": -65.917562,
+          "longitude": 129.474318
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Chef",
+          "Bartending",
+          "Barista",
+          "Kitchen Porter"
+        ],
+        "certifications": [
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 17.44,
+          "max": 26.73
+        }
+      },
+      "metrics": {
+        "rating": 3.9,
+        "total_shifts": 28,
+        "completion_rate": 0.86
+      },
+      "account_status": "Active",
+      "registration_date": "2024-06-23",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "080a1e9f-3d81-4766-bfbe-3de9d07dfa67",
+      "profile": {
+        "full_name": "Staff Member 7966",
+        "email": "staff6303@example.com",
+        "phone": "+693564304384",
+        "profile_photo": "staff_photo_4880.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 3",
+        "coordinates": {
+          "latitude": 82.274259,
+          "longitude": 16.893528
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Sommelier",
+          "Bartending"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 16.4,
+          "max": 34.68
+        }
+      },
+      "metrics": {
+        "rating": 3.9,
+        "total_shifts": 81,
+        "completion_rate": 0.98
+      },
+      "account_status": "Active",
+      "registration_date": "2023-06-23",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "72c47eb6-2924-4a91-9794-026c7c0dd35b",
+      "profile": {
+        "full_name": "Staff Member 7024",
+        "email": "staff5234@example.com",
+        "phone": "+168752739618",
+        "profile_photo": "staff_photo_3549.jpg"
+      },
+      "location": {
+        "jurisdiction": "Australia",
+        "city": "Australia City 2",
+        "coordinates": {
+          "latitude": -60.326695,
+          "longitude": -179.858873
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Bartending",
+          "Chef",
+          "Kitchen Porter"
+        ],
+        "certifications": [
+          "Fire Safety",
+          "Food Safety Level 2",
+          "First Aid",
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 16.76,
+          "max": 32.43
+        }
+      },
+      "metrics": {
+        "rating": 4.8,
+        "total_shifts": 152,
+        "completion_rate": 0.96
+      },
+      "account_status": "Active",
+      "registration_date": "2023-01-31",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "26894f9d-53c8-4d38-881c-6194ccc67124",
+      "profile": {
+        "full_name": "Staff Member 2419",
+        "email": "staff8077@example.com",
+        "phone": "+906192773123",
+        "profile_photo": "staff_photo_3446.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 2",
+        "coordinates": {
+          "latitude": 72.776064,
+          "longitude": 165.975762
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Hosting",
+          "Chef",
+          "Waiting"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "First Aid",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 17.08,
+          "max": 33.71
+        }
+      },
+      "metrics": {
+        "rating": 3.8,
+        "total_shifts": 119,
+        "completion_rate": 0.91
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-09-27",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "8a92ad0a-eb1f-4768-b118-edf679814bfa",
+      "profile": {
+        "full_name": "Staff Member 7832",
+        "email": "staff3056@example.com",
+        "phone": "+228001121206",
+        "profile_photo": "staff_photo_9462.jpg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 2",
+        "coordinates": {
+          "latitude": 58.989274,
+          "longitude": -91.848648
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Bartending",
+          "Food Runner",
+          "Waiting"
+        ],
+        "certifications": [
+          "First Aid",
+          "Personal License",
+          "Food Safety Level 2"
+        ],
+        "hourly_rate": {
+          "min": 13.98,
+          "max": 24.75
+        }
+      },
+      "metrics": {
+        "rating": 3.8,
+        "total_shifts": 113,
+        "completion_rate": 0.86
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-10-17",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "ec5f5838-8c8c-44af-b18e-b365d8ce1423",
+      "profile": {
+        "full_name": "Staff Member 2021",
+        "email": "staff3781@example.com",
+        "phone": "+63989087739",
+        "profile_photo": "staff_photo_2974.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 4",
+        "coordinates": {
+          "latitude": 6.829984,
+          "longitude": -87.95997
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Food Runner"
+        ],
+        "certifications": [
+          "Food Safety Level 2",
+          "Food Safety Level 3"
+        ],
+        "hourly_rate": {
+          "min": 15.6,
+          "max": 32.12
+        }
+      },
+      "metrics": {
+        "rating": 4.3,
+        "total_shifts": 129,
+        "completion_rate": 1.0
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-03-02",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "a0f362b3-9bf2-4db2-b3a7-c243d3b259ee",
+      "profile": {
+        "full_name": "Staff Member 3548",
+        "email": "staff7882@example.com",
+        "phone": "+378106373334",
+        "profile_photo": "staff_photo_7995.jpg"
+      },
+      "location": {
+        "jurisdiction": "Germany",
+        "city": "Germany City 3",
+        "coordinates": {
+          "latitude": 29.892206,
+          "longitude": -7.486121
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Waiting",
+          "Hosting",
+          "Kitchen Porter",
+          "Food Runner",
+          "Chef"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Customer Service Excellence"
+        ],
+        "hourly_rate": {
+          "min": 17.45,
+          "max": 29.89
+        }
+      },
+      "metrics": {
+        "rating": 4.2,
+        "total_shifts": 147,
+        "completion_rate": 0.88
+      },
+      "account_status": "Active",
+      "registration_date": "2023-03-04",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "bf9ee8d7-44db-4319-a37e-a083c6a196f7",
+      "profile": {
+        "full_name": "Staff Member 6548",
+        "email": "staff7077@example.com",
+        "phone": "+98298807623",
+        "profile_photo": "staff_photo_2858.jpg"
+      },
+      "location": {
+        "jurisdiction": "Netherlands",
+        "city": "Netherlands City 2",
+        "coordinates": {
+          "latitude": -12.288581,
+          "longitude": -111.804334
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Food Runner",
+          "Hosting",
+          "Event Coordinator"
+        ],
+        "certifications": [
+          "Food Safety Level 2",
+          "First Aid"
+        ],
+        "hourly_rate": {
+          "min": 13.77,
+          "max": 25.11
+        }
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_shifts": 93,
+        "completion_rate": 0.89
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-05-06",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "f25c8405-044d-42af-bb33-3ae4e9152ec8",
+      "profile": {
+        "full_name": "Staff Member 3102",
+        "email": "staff3378@example.com",
+        "phone": "+836939939841",
+        "profile_photo": "staff_photo_5460.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 1",
+        "coordinates": {
+          "latitude": -88.301697,
+          "longitude": 46.509929
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Kitchen Porter",
+          "Chef",
+          "Bartending"
+        ],
+        "certifications": [
+          "Fire Safety",
+          "Food Safety Level 3",
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 17.71,
+          "max": 31.11
+        }
+      },
+      "metrics": {
+        "rating": 4.9,
+        "total_shifts": 54,
+        "completion_rate": 0.88
+      },
+      "account_status": "Verified",
+      "registration_date": "2024-02-20",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "2f2bb6b4-3cc9-4636-86b3-59016b83d4fc",
+      "profile": {
+        "full_name": "Staff Member 5489",
+        "email": "staff8108@example.com",
+        "phone": "+464749275832",
+        "profile_photo": "staff_photo_2592.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 4",
+        "coordinates": {
+          "latitude": 1.188852,
+          "longitude": 105.026209
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Sommelier",
+          "Barista",
+          "Chef"
+        ],
+        "certifications": [
+          "Customer Service Excellence",
+          "Health and Safety"
+        ],
+        "hourly_rate": {
+          "min": 17.67,
+          "max": 24.21
+        }
+      },
+      "metrics": {
+        "rating": 4.6,
+        "total_shifts": 135,
+        "completion_rate": 0.87
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-04-19",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "1198d3e0-bfb9-4e4d-8e63-ad2809e607ea",
+      "profile": {
+        "full_name": "Staff Member 1172",
+        "email": "staff4485@example.com",
+        "phone": "+577693258079",
+        "profile_photo": "staff_photo_7116.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 3",
+        "coordinates": {
+          "latitude": 71.858252,
+          "longitude": 32.183632
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Restaurant Manager",
+          "Waiting",
+          "Hosting",
+          "Sommelier"
+        ],
+        "certifications": [
+          "First Aid"
+        ],
+        "hourly_rate": {
+          "min": 14.42,
+          "max": 30.65
+        }
+      },
+      "metrics": {
+        "rating": 4.4,
+        "total_shifts": 85,
+        "completion_rate": 0.94
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-03-15",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "bdcb332a-9b98-4dc9-90af-c1f021f8f6e3",
+      "profile": {
+        "full_name": "Staff Member 3394",
+        "email": "staff1837@example.com",
+        "phone": "+265333685558",
+        "profile_photo": "staff_photo_2738.jpg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 5",
+        "coordinates": {
+          "latitude": 61.6497,
+          "longitude": -165.941927
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Barista",
+          "Chef"
+        ],
+        "certifications": [
+          "First Aid",
+          "Food Safety Level 3",
+          "Food Safety Level 2"
+        ],
+        "hourly_rate": {
+          "min": 17.65,
+          "max": 29.46
+        }
+      },
+      "metrics": {
+        "rating": 3.7,
+        "total_shifts": 69,
+        "completion_rate": 0.87
+      },
+      "account_status": "Active",
+      "registration_date": "2023-06-14",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "4babfe81-fbaf-4594-ad08-72c090b88953",
+      "profile": {
+        "full_name": "Staff Member 9740",
+        "email": "staff2168@example.com",
+        "phone": "+503816636611",
+        "profile_photo": "staff_photo_5493.jpg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 4",
+        "coordinates": {
+          "latitude": -28.404651,
+          "longitude": -64.75538
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Barista",
+          "Food Runner",
+          "Kitchen Porter"
+        ],
+        "certifications": [
+          "Health and Safety",
+          "Food Safety Level 3",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 16.61,
+          "max": 22.97
+        }
+      },
+      "metrics": {
+        "rating": 3.6,
+        "total_shifts": 60,
+        "completion_rate": 0.99
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-04-16",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "880e08b9-dfc7-4349-8387-7d2d12e6fbfd",
+      "profile": {
+        "full_name": "Staff Member 5440",
+        "email": "staff5937@example.com",
+        "phone": "+805484467444",
+        "profile_photo": "staff_photo_8294.jpg"
+      },
+      "location": {
+        "jurisdiction": "Australia",
+        "city": "Australia City 1",
+        "coordinates": {
+          "latitude": 48.059475,
+          "longitude": -29.440027
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Barista",
+          "Chef",
+          "Sommelier",
+          "Hosting",
+          "Food Runner"
+        ],
+        "certifications": [
+          "Food Safety Level 2",
+          "Health and Safety",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 17.98,
+          "max": 19.97
+        }
+      },
+      "metrics": {
+        "rating": 3.6,
+        "total_shifts": 191,
+        "completion_rate": 0.87
+      },
+      "account_status": "Active",
+      "registration_date": "2023-04-19",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "26ad74be-8d5c-4cd3-ba1b-8de7d1df1f81",
+      "profile": {
+        "full_name": "Staff Member 5007",
+        "email": "staff6146@example.com",
+        "phone": "+298273564604",
+        "profile_photo": "staff_photo_6763.jpg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 1",
+        "coordinates": {
+          "latitude": -10.240826,
+          "longitude": -1.5684
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Event Coordinator",
+          "Barista",
+          "Kitchen Porter"
+        ],
+        "certifications": [
+          "Food Safety Level 2",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 16.37,
+          "max": 31.2
+        }
+      },
+      "metrics": {
+        "rating": 4.4,
+        "total_shifts": 54,
+        "completion_rate": 0.97
+      },
+      "account_status": "Active",
+      "registration_date": "2024-08-10",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "fdbbb6f8-fc5b-4992-a27f-e32e24b8ff2c",
+      "profile": {
+        "full_name": "Staff Member 1338",
+        "email": "staff6600@example.com",
+        "phone": "+794472865055",
+        "profile_photo": "staff_photo_2171.jpg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 2",
+        "coordinates": {
+          "latitude": -87.954822,
+          "longitude": -61.343915
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Chef",
+          "Kitchen Porter",
+          "Bartending",
+          "Sommelier"
+        ],
+        "certifications": [
+          "Personal License",
+          "Fire Safety"
+        ],
+        "hourly_rate": {
+          "min": 17.12,
+          "max": 24.44
+        }
+      },
+      "metrics": {
+        "rating": 3.8,
+        "total_shifts": 179,
+        "completion_rate": 0.95
+      },
+      "account_status": "Active",
+      "registration_date": "2024-08-01",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "f61930bf-72e5-4f2b-a218-5ae602632232",
+      "profile": {
+        "full_name": "Staff Member 9866",
+        "email": "staff6862@example.com",
+        "phone": "+217658651793",
+        "profile_photo": "staff_photo_6261.jpg"
+      },
+      "location": {
+        "jurisdiction": "Australia",
+        "city": "Australia City 2",
+        "coordinates": {
+          "latitude": -69.196272,
+          "longitude": 165.877669
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Food Runner",
+          "Event Coordinator",
+          "Waiting",
+          "Hosting"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Health and Safety",
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 17.44,
+          "max": 19.72
+        }
+      },
+      "metrics": {
+        "rating": 4.2,
+        "total_shifts": 94,
+        "completion_rate": 0.89
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-05-12",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "af394bf9-e348-4b1d-a9b2-09b2c06f391f",
+      "profile": {
+        "full_name": "Staff Member 7421",
+        "email": "staff4581@example.com",
+        "phone": "+362657554479",
+        "profile_photo": "staff_photo_7321.jpg"
+      },
+      "location": {
+        "jurisdiction": "Germany",
+        "city": "Germany City 1",
+        "coordinates": {
+          "latitude": -81.809271,
+          "longitude": -130.363054
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Waiting",
+          "Barista",
+          "Chef",
+          "Food Runner",
+          "Kitchen Porter"
+        ],
+        "certifications": [
+          "Food Safety Level 3",
+          "Health and Safety",
+          "Customer Service Excellence",
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 14.62,
+          "max": 24.78
+        }
+      },
+      "metrics": {
+        "rating": 4.4,
+        "total_shifts": 139,
+        "completion_rate": 0.9
+      },
+      "account_status": "Active",
+      "registration_date": "2023-04-13",
+      "verification": {
+        "background_check": "Verified",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    },
+    {
+      "id": "3de47394-e805-4865-98a2-df2557ebac73",
+      "profile": {
+        "full_name": "Staff Member 4022",
+        "email": "staff7830@example.com",
+        "phone": "+513812172945",
+        "profile_photo": "staff_photo_6451.jpg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 1",
+        "coordinates": {
+          "latitude": 64.484653,
+          "longitude": -121.568756
+        }
+      },
+      "professional_info": {
+        "skills": [
+          "Restaurant Manager",
+          "Event Coordinator",
+          "Waiting",
+          "Bartending"
+        ],
+        "certifications": [
+          "Personal License"
+        ],
+        "hourly_rate": {
+          "min": 14.62,
+          "max": 28.44
+        }
+      },
+      "metrics": {
+        "rating": 4.9,
+        "total_shifts": 153,
+        "completion_rate": 0.93
+      },
+      "account_status": "Verified",
+      "registration_date": "2023-12-20",
+      "verification": {
+        "background_check": "Pending Review",
+        "identity_verified": true,
+        "documents_verified": true
+      }
+    }
+  ],
+  "companies": [
+    {
+      "id": "fae7ef25-b533-4ac8-b446-e5b6163951c6",
+      "profile": {
+        "name": "Elite Dining Collection",
+        "industry": "Catering",
+        "company_size": "Small",
+        "company_logo": "company_logo_4516.svg"
+      },
+      "location": {
+        "jurisdiction": "Australia",
+        "city": "Australia City 3",
+        "coordinates": {
+          "latitude": 61.107671,
+          "longitude": 140.42924
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 2524",
+        "email": "company5508@example.com",
+        "phone": "+396141974767"
+      },
+      "metrics": {
+        "rating": 4.6,
+        "total_shifts_posted": 73,
+        "payment_reliability": 0.94
+      },
+      "account_status": "Enterprise",
+      "registration_date": "2023-01-02",
+      "financial": {
+        "payment_method": "Credit Card",
+        "verification_status": "Verified",
+        "credit_limit": 38562.22
+      }
+    },
+    {
+      "id": "68ddc144-a349-424a-82ce-aa0635133a1b",
+      "profile": {
+        "name": "Fine Dining Enterprises",
+        "industry": "Nightclubs",
+        "company_size": "Large",
+        "company_logo": "company_logo_6582.svg"
+      },
+      "location": {
+        "jurisdiction": "Australia",
+        "city": "Australia City 4",
+        "coordinates": {
+          "latitude": 24.945497,
+          "longitude": -69.600024
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 3941",
+        "email": "company4855@example.com",
+        "phone": "+473445523173"
+      },
+      "metrics": {
+        "rating": 4.6,
+        "total_shifts_posted": 704,
+        "payment_reliability": 0.96
+      },
+      "account_status": "Active",
+      "registration_date": "2022-07-02",
+      "financial": {
+        "payment_method": "Credit Card",
+        "verification_status": "Verified",
+        "credit_limit": 12856.87
+      }
+    },
+    {
+      "id": "fccd0f27-3053-4e81-9244-eddc707053ba",
+      "profile": {
+        "name": "Premium Venues Ltd",
+        "industry": "Event Venues",
+        "company_size": "Large",
+        "company_logo": "company_logo_6181.svg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 3",
+        "coordinates": {
+          "latitude": 78.777871,
+          "longitude": -35.295139
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 3730",
+        "email": "company9426@example.com",
+        "phone": "+836511219618"
+      },
+      "metrics": {
+        "rating": 4.1,
+        "total_shifts_posted": 210,
+        "payment_reliability": 0.97
+      },
+      "account_status": "Enterprise",
+      "registration_date": "2022-08-13",
+      "financial": {
+        "payment_method": "Credit Card",
+        "verification_status": "Verified",
+        "credit_limit": 39718.15
+      }
+    },
+    {
+      "id": "f86f9c2e-9497-4314-9039-af0de9669b08",
+      "profile": {
+        "name": "Luxury Resorts International",
+        "industry": "Nightclubs",
+        "company_size": "Large",
+        "company_logo": "company_logo_7603.svg"
+      },
+      "location": {
+        "jurisdiction": "Netherlands",
+        "city": "Netherlands City 4",
+        "coordinates": {
+          "latitude": 62.750496,
+          "longitude": 128.700476
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 1552",
+        "email": "company2587@example.com",
+        "phone": "+14607256531"
+      },
+      "metrics": {
+        "rating": 4.0,
+        "total_shifts_posted": 516,
+        "payment_reliability": 1.0
+      },
+      "account_status": "Enterprise",
+      "registration_date": "2024-11-13",
+      "financial": {
+        "payment_method": "Credit Card",
+        "verification_status": "Verified",
+        "credit_limit": 43519.77
+      }
+    },
+    {
+      "id": "9bdac943-9972-443b-9e5c-a575a4d51189",
+      "profile": {
+        "name": "Elite Dining Collection",
+        "industry": "Event Venues",
+        "company_size": "Large",
+        "company_logo": "company_logo_1818.svg"
+      },
+      "location": {
+        "jurisdiction": "Germany",
+        "city": "Germany City 3",
+        "coordinates": {
+          "latitude": -84.080599,
+          "longitude": 52.1939
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 6402",
+        "email": "company8758@example.com",
+        "phone": "+247910598553"
+      },
+      "metrics": {
+        "rating": 4.3,
+        "total_shifts_posted": 809,
+        "payment_reliability": 0.94
+      },
+      "account_status": "Active",
+      "registration_date": "2023-03-22",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 22715.89
+      }
+    },
+    {
+      "id": "9d374e76-70fc-4276-b8fb-f1676a2a2b52",
+      "profile": {
+        "name": "Fine Dining Enterprises",
+        "industry": "Cafes",
+        "company_size": "Small",
+        "company_logo": "company_logo_3033.svg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 3",
+        "coordinates": {
+          "latitude": 18.590105,
+          "longitude": 172.802612
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 2150",
+        "email": "company2459@example.com",
+        "phone": "+255691871365"
+      },
+      "metrics": {
+        "rating": 3.9,
+        "total_shifts_posted": 481,
+        "payment_reliability": 0.98
+      },
+      "account_status": "Enterprise",
+      "registration_date": "2022-07-10",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 41504.05
+      }
+    },
+    {
+      "id": "2df0cf97-7950-4385-b627-2c958ef25366",
+      "profile": {
+        "name": "Premium Venues Ltd",
+        "industry": "Bars",
+        "company_size": "Small",
+        "company_logo": "company_logo_4143.svg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 1",
+        "coordinates": {
+          "latitude": 26.547143,
+          "longitude": -150.798707
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 5446",
+        "email": "company3573@example.com",
+        "phone": "+747715495633"
+      },
+      "metrics": {
+        "rating": 3.9,
+        "total_shifts_posted": 770,
+        "payment_reliability": 0.99
+      },
+      "account_status": "Premium",
+      "registration_date": "2022-05-16",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 39582.76
+      }
+    },
+    {
+      "id": "b25fee20-a24e-4d98-b7a3-019cb808ddd0",
+      "profile": {
+        "name": "Elite Dining Collection",
+        "industry": "Catering",
+        "company_size": "Small",
+        "company_logo": "company_logo_9022.svg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 2",
+        "coordinates": {
+          "latitude": -42.857404,
+          "longitude": 51.278023
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 4997",
+        "email": "company8953@example.com",
+        "phone": "+311186679705"
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_shifts_posted": 474,
+        "payment_reliability": 0.98
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-02-04",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 28225.3
+      }
+    },
+    {
+      "id": "e781771c-1d0e-497c-8391-d02839d245df",
+      "profile": {
+        "name": "Luxury Resorts International",
+        "industry": "Restaurants",
+        "company_size": "Medium",
+        "company_logo": "company_logo_4864.svg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 4",
+        "coordinates": {
+          "latitude": -88.800664,
+          "longitude": -172.299677
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 8411",
+        "email": "company6325@example.com",
+        "phone": "+495799094626"
+      },
+      "metrics": {
+        "rating": 4.6,
+        "total_shifts_posted": 462,
+        "payment_reliability": 0.96
+      },
+      "account_status": "Enterprise",
+      "registration_date": "2022-09-13",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 10454.44
+      }
+    },
+    {
+      "id": "0622f625-b6ea-400b-8486-25183d7495d2",
+      "profile": {
+        "name": "Premium Venues Ltd",
+        "industry": "Nightclubs",
+        "company_size": "Large",
+        "company_logo": "company_logo_8219.svg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 2",
+        "coordinates": {
+          "latitude": 9.455096,
+          "longitude": -32.57924
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 1742",
+        "email": "company1874@example.com",
+        "phone": "+542500099834"
+      },
+      "metrics": {
+        "rating": 4.3,
+        "total_shifts_posted": 514,
+        "payment_reliability": 0.94
+      },
+      "account_status": "Premium",
+      "registration_date": "2023-11-04",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 21634.62
+      }
+    },
+    {
+      "id": "a017d602-4803-43cf-9493-c92e5717491c",
+      "profile": {
+        "name": "Premium Venues Ltd",
+        "industry": "Nightclubs",
+        "company_size": "Large",
+        "company_logo": "company_logo_9988.svg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 1",
+        "coordinates": {
+          "latitude": -17.670282,
+          "longitude": 69.675759
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 6465",
+        "email": "company2430@example.com",
+        "phone": "+828519952444"
+      },
+      "metrics": {
+        "rating": 3.9,
+        "total_shifts_posted": 357,
+        "payment_reliability": 0.95
+      },
+      "account_status": "Premium",
+      "registration_date": "2022-08-19",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 21647.55
+      }
+    },
+    {
+      "id": "4f4463de-352f-444b-9416-a521a68bcb59",
+      "profile": {
+        "name": "Grand Plaza Hotels",
+        "industry": "Restaurants",
+        "company_size": "Small",
+        "company_logo": "company_logo_5457.svg"
+      },
+      "location": {
+        "jurisdiction": "Germany",
+        "city": "Germany City 1",
+        "coordinates": {
+          "latitude": -46.228642,
+          "longitude": 23.517045
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 2972",
+        "email": "company6204@example.com",
+        "phone": "+146797019679"
+      },
+      "metrics": {
+        "rating": 4.3,
+        "total_shifts_posted": 564,
+        "payment_reliability": 0.92
+      },
+      "account_status": "Active",
+      "registration_date": "2023-11-13",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 22327.2
+      }
+    },
+    {
+      "id": "95934db1-f636-44d7-812b-b8bd6f8ca386",
+      "profile": {
+        "name": "Grand Plaza Hotels",
+        "industry": "Cafes",
+        "company_size": "Large",
+        "company_logo": "company_logo_9403.svg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 2",
+        "coordinates": {
+          "latitude": -27.15163,
+          "longitude": -114.529129
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 4910",
+        "email": "company2567@example.com",
+        "phone": "+375378576991"
+      },
+      "metrics": {
+        "rating": 4.0,
+        "total_shifts_posted": 178,
+        "payment_reliability": 0.9
+      },
+      "account_status": "Active",
+      "registration_date": "2024-07-04",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 8705.64
+      }
+    },
+    {
+      "id": "de871f5c-2bf4-412e-a8cc-d3420c9ecf4b",
+      "profile": {
+        "name": "Elite Dining Collection",
+        "industry": "Cafes",
+        "company_size": "Large",
+        "company_logo": "company_logo_1972.svg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 1",
+        "coordinates": {
+          "latitude": -75.287099,
+          "longitude": -57.430095
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 4678",
+        "email": "company7199@example.com",
+        "phone": "+208412692376"
+      },
+      "metrics": {
+        "rating": 4.0,
+        "total_shifts_posted": 113,
+        "payment_reliability": 0.92
+      },
+      "account_status": "Active",
+      "registration_date": "2023-06-27",
+      "financial": {
+        "payment_method": "Credit Card",
+        "verification_status": "Verified",
+        "credit_limit": 18609.38
+      }
+    },
+    {
+      "id": "393aec5e-3e2c-43d7-8571-6d837209014b",
+      "profile": {
+        "name": "Premium Venues Ltd",
+        "industry": "Catering",
+        "company_size": "Small",
+        "company_logo": "company_logo_7573.svg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 4",
+        "coordinates": {
+          "latitude": -45.659164,
+          "longitude": 119.167757
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 2422",
+        "email": "company2749@example.com",
+        "phone": "+377836057670"
+      },
+      "metrics": {
+        "rating": 4.4,
+        "total_shifts_posted": 317,
+        "payment_reliability": 0.91
+      },
+      "account_status": "Enterprise",
+      "registration_date": "2023-11-22",
+      "financial": {
+        "payment_method": "Credit Card",
+        "verification_status": "Verified",
+        "credit_limit": 42765.58
+      }
+    },
+    {
+      "id": "0afd8264-fcf8-4328-8d66-476a0c49193b",
+      "profile": {
+        "name": "Elite Dining Collection",
+        "industry": "Bars",
+        "company_size": "Small",
+        "company_logo": "company_logo_1720.svg"
+      },
+      "location": {
+        "jurisdiction": "United Kingdom",
+        "city": "United Kingdom City 2",
+        "coordinates": {
+          "latitude": -77.55223,
+          "longitude": -88.869657
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 4434",
+        "email": "company3895@example.com",
+        "phone": "+412556049732"
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_shifts_posted": 497,
+        "payment_reliability": 0.93
+      },
+      "account_status": "Enterprise",
+      "registration_date": "2022-04-29",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 38166.86
+      }
+    },
+    {
+      "id": "eb2590a6-75e7-4393-bd19-97cfdd9f732e",
+      "profile": {
+        "name": "Fine Dining Enterprises",
+        "industry": "Event Venues",
+        "company_size": "Large",
+        "company_logo": "company_logo_2199.svg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 3",
+        "coordinates": {
+          "latitude": 4.325406,
+          "longitude": -133.824168
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 6190",
+        "email": "company2793@example.com",
+        "phone": "+994465650186"
+      },
+      "metrics": {
+        "rating": 4.6,
+        "total_shifts_posted": 625,
+        "payment_reliability": 0.96
+      },
+      "account_status": "Active",
+      "registration_date": "2022-01-11",
+      "financial": {
+        "payment_method": "Credit Card",
+        "verification_status": "Verified",
+        "credit_limit": 31587.71
+      }
+    },
+    {
+      "id": "1ee86b88-7a05-4263-b7c8-55af7dd94d36",
+      "profile": {
+        "name": "Grand Plaza Hotels",
+        "industry": "Restaurants",
+        "company_size": "Medium",
+        "company_logo": "company_logo_8086.svg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 4",
+        "coordinates": {
+          "latitude": 2.526828,
+          "longitude": -169.158779
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 5634",
+        "email": "company9125@example.com",
+        "phone": "+499807158675"
+      },
+      "metrics": {
+        "rating": 5.0,
+        "total_shifts_posted": 564,
+        "payment_reliability": 0.97
+      },
+      "account_status": "Enterprise",
+      "registration_date": "2023-07-26",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 49654.42
+      }
+    },
+    {
+      "id": "aa3ca15b-5a8f-4625-b407-de31c81b0120",
+      "profile": {
+        "name": "Fine Dining Enterprises",
+        "industry": "Nightclubs",
+        "company_size": "Medium",
+        "company_logo": "company_logo_5276.svg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 4",
+        "coordinates": {
+          "latitude": -27.630754,
+          "longitude": -161.792362
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 2657",
+        "email": "company7052@example.com",
+        "phone": "+232654993761"
+      },
+      "metrics": {
+        "rating": 4.6,
+        "total_shifts_posted": 370,
+        "payment_reliability": 0.99
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-07-30",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 15012.79
+      }
+    },
+    {
+      "id": "48032541-10ce-4520-9522-b8f0374b9da7",
+      "profile": {
+        "name": "Fine Dining Enterprises",
+        "industry": "Cafes",
+        "company_size": "Medium",
+        "company_logo": "company_logo_3148.svg"
+      },
+      "location": {
+        "jurisdiction": "Germany",
+        "city": "Germany City 3",
+        "coordinates": {
+          "latitude": -88.72666,
+          "longitude": -150.282387
+        }
+      },
+      "contact": {
+        "primary_contact": "Contact 2416",
+        "email": "company1867@example.com",
+        "phone": "+947476321705"
+      },
+      "metrics": {
+        "rating": 4.7,
+        "total_shifts_posted": 60,
+        "payment_reliability": 0.92
+      },
+      "account_status": "Premium",
+      "registration_date": "2024-02-02",
+      "financial": {
+        "payment_method": "Bank Transfer",
+        "verification_status": "Verified",
+        "credit_limit": 21342.07
+      }
+    }
+  ],
+  "agencies": [
+    {
+      "id": "0fb19b5a-d59c-4e6e-8cd5-a703ccccf602",
+      "profile": {
+        "name": "Expert Staffing Group",
+        "agency_type": "General Staffing",
+        "agency_logo": "agency_logo_5359.svg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 3",
+        "coordinates": {
+          "latitude": -33.476906,
+          "longitude": 149.620078
+        }
+      },
+      "business_info": {
+        "specializations": [
+          "Hotels",
+          "Nightclubs"
+        ],
+        "staff_count": 153,
+        "active_clients": 28
+      },
+      "metrics": {
+        "rating": 4.2,
+        "total_placements": 4689,
+        "success_rate": 0.94
+      },
+      "registration_date": "2022-12-28",
+      "compliance": {
+        "license_status": "Active",
+        "insurance_verified": true,
+        "tax_compliance": "Verified"
+      }
+    },
+    {
+      "id": "cfd25691-06d1-4878-b011-60ce98aa4a58",
+      "profile": {
+        "name": "Elite Recruitment Agency",
+        "agency_type": "Hospitality Specialist",
+        "agency_logo": "agency_logo_8122.svg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 3",
+        "coordinates": {
+          "latitude": -71.020278,
+          "longitude": 23.522154
+        }
+      },
+      "business_info": {
+        "specializations": [
+          "Restaurants",
+          "Cafes",
+          "Nightclubs"
+        ],
+        "staff_count": 144,
+        "active_clients": 17
+      },
+      "metrics": {
+        "rating": 4.2,
+        "total_placements": 9955,
+        "success_rate": 0.94
+      },
+      "registration_date": "2024-12-08",
+      "compliance": {
+        "license_status": "Active",
+        "insurance_verified": true,
+        "tax_compliance": "Verified"
+      }
+    },
+    {
+      "id": "16e184c5-5b7b-4d52-94d0-7bac6d612816",
+      "profile": {
+        "name": "Professional Staffing Solutions",
+        "agency_type": "General Staffing",
+        "agency_logo": "agency_logo_7601.svg"
+      },
+      "location": {
+        "jurisdiction": "Italy",
+        "city": "Italy City 2",
+        "coordinates": {
+          "latitude": -79.655503,
+          "longitude": 167.133449
+        }
+      },
+      "business_info": {
+        "specializations": [
+          "Catering",
+          "Nightclubs",
+          "Cafes"
+        ],
+        "staff_count": 80,
+        "active_clients": 29
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_placements": 9242,
+        "success_rate": 0.96
+      },
+      "registration_date": "2024-04-29",
+      "compliance": {
+        "license_status": "Active",
+        "insurance_verified": true,
+        "tax_compliance": "Verified"
+      }
+    },
+    {
+      "id": "0b2c7066-2de1-4a78-a05f-7ccd7a7cbbe2",
+      "profile": {
+        "name": "Expert Staffing Group",
+        "agency_type": "General Staffing",
+        "agency_logo": "agency_logo_6319.svg"
+      },
+      "location": {
+        "jurisdiction": "United States",
+        "city": "United States City 2",
+        "coordinates": {
+          "latitude": 82.164437,
+          "longitude": -59.368649
+        }
+      },
+      "business_info": {
+        "specializations": [
+          "Bars",
+          "Hotels",
+          "Event Venues",
+          "Restaurants"
+        ],
+        "staff_count": 21,
+        "active_clients": 42
+      },
+      "metrics": {
+        "rating": 4.5,
+        "total_placements": 8368,
+        "success_rate": 0.96
+      },
+      "registration_date": "2024-01-10",
+      "compliance": {
+        "license_status": "Active",
+        "insurance_verified": true,
+        "tax_compliance": "Verified"
+      }
+    },
+    {
+      "id": "ae79ae0c-fa93-4566-8598-f0c013ee869d",
+      "profile": {
+        "name": "Premier Personnel Services",
+        "agency_type": "Hospitality Specialist",
+        "agency_logo": "agency_logo_6099.svg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 4",
+        "coordinates": {
+          "latitude": -14.883745,
+          "longitude": -35.114961
+        }
+      },
+      "business_info": {
+        "specializations": [
+          "Restaurants",
+          "Hotels"
+        ],
+        "staff_count": 56,
+        "active_clients": 26
+      },
+      "metrics": {
+        "rating": 4.1,
+        "total_placements": 3987,
+        "success_rate": 0.85
+      },
+      "registration_date": "2022-12-09",
+      "compliance": {
+        "license_status": "Active",
+        "insurance_verified": true,
+        "tax_compliance": "Verified"
+      }
+    },
+    {
+      "id": "28c29fb8-9ba1-479f-81f4-7e9d3b9c7711",
+      "profile": {
+        "name": "Specialized Recruitment Partners",
+        "agency_type": "Executive Search",
+        "agency_logo": "agency_logo_7110.svg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 5",
+        "coordinates": {
+          "latitude": -24.487005,
+          "longitude": -30.501975
+        }
+      },
+      "business_info": {
+        "specializations": [
+          "Catering",
+          "Hotels",
+          "Restaurants"
+        ],
+        "staff_count": 186,
+        "active_clients": 33
+      },
+      "metrics": {
+        "rating": 4.0,
+        "total_placements": 5655,
+        "success_rate": 0.92
+      },
+      "registration_date": "2021-01-08",
+      "compliance": {
+        "license_status": "Active",
+        "insurance_verified": true,
+        "tax_compliance": "Verified"
+      }
+    },
+    {
+      "id": "667c1ebf-3035-49f1-b467-6a809cdfbbda",
+      "profile": {
+        "name": "Elite Recruitment Agency",
+        "agency_type": "Executive Search",
+        "agency_logo": "agency_logo_6956.svg"
+      },
+      "location": {
+        "jurisdiction": "Netherlands",
+        "city": "Netherlands City 4",
+        "coordinates": {
+          "latitude": -81.383503,
+          "longitude": -118.82226
+        }
+      },
+      "business_info": {
+        "specializations": [
+          "Event Venues",
+          "Hotels",
+          "Restaurants",
+          "Bars"
+        ],
+        "staff_count": 126,
+        "active_clients": 11
+      },
+      "metrics": {
+        "rating": 4.3,
+        "total_placements": 6790,
+        "success_rate": 0.94
+      },
+      "registration_date": "2020-04-30",
+      "compliance": {
+        "license_status": "Active",
+        "insurance_verified": true,
+        "tax_compliance": "Verified"
+      }
+    },
+    {
+      "id": "7370a0d0-f2cd-4ec9-9e43-4b8df8834a52",
+      "profile": {
+        "name": "Professional Staffing Solutions",
+        "agency_type": "Executive Search",
+        "agency_logo": "agency_logo_3830.svg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 3",
+        "coordinates": {
+          "latitude": -51.996186,
+          "longitude": -47.503056
+        }
+      },
+      "business_info": {
+        "specializations": [
+          "Nightclubs",
+          "Event Venues",
+          "Hotels",
+          "Cafes"
+        ],
+        "staff_count": 54,
+        "active_clients": 17
+      },
+      "metrics": {
+        "rating": 4.1,
+        "total_placements": 8391,
+        "success_rate": 0.92
+      },
+      "registration_date": "2021-08-19",
+      "compliance": {
+        "license_status": "Active",
+        "insurance_verified": true,
+        "tax_compliance": "Verified"
+      }
+    },
+    {
+      "id": "af5ce87f-e25f-4ae5-a5cf-30a3ba934acb",
+      "profile": {
+        "name": "Expert Staffing Group",
+        "agency_type": "Executive Search",
+        "agency_logo": "agency_logo_6648.svg"
+      },
+      "location": {
+        "jurisdiction": "France",
+        "city": "France City 2",
+        "coordinates": {
+          "latitude": 30.378457,
+          "longitude": -85.192528
+        }
+      },
+      "business_info": {
+        "specializations": [
+          "Catering",
+          "Event Venues",
+          "Restaurants"
+        ],
+        "staff_count": 38,
+        "active_clients": 17
+      },
+      "metrics": {
+        "rating": 4.7,
+        "total_placements": 3577,
+        "success_rate": 0.98
+      },
+      "registration_date": "2020-10-12",
+      "compliance": {
+        "license_status": "Active",
+        "insurance_verified": true,
+        "tax_compliance": "Verified"
+      }
+    },
+    {
+      "id": "68c8bc5a-9cc1-40c7-a521-49df61b299b9",
+      "profile": {
+        "name": "Premier Personnel Services",
+        "agency_type": "Executive Search",
+        "agency_logo": "agency_logo_4379.svg"
+      },
+      "location": {
+        "jurisdiction": "Spain",
+        "city": "Spain City 5",
+        "coordinates": {
+          "latitude": -84.674152,
+          "longitude": 0.25559
+        }
+      },
+      "business_info": {
+        "specializations": [
+          "Bars",
+          "Restaurants"
+        ],
+        "staff_count": 140,
+        "active_clients": 12
+      },
+      "metrics": {
+        "rating": 4.9,
+        "total_placements": 2342,
+        "success_rate": 0.93
+      },
+      "registration_date": "2023-01-12",
+      "compliance": {
+        "license_status": "Active",
+        "insurance_verified": true,
+        "tax_compliance": "Verified"
+      }
+    }
+  ],
+  "metadata": {
+    "generation_date": "2025-01-09 05:29:58",
+    "total_users": 130,
+    "version": "1.0"
+  }
+}

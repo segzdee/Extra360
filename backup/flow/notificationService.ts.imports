@@ -1,0 +1,4 @@
+File: services/notificationService.ts
+import axios from 'axios';
+import { Notification, NotificationType, NotificationChannel } from './notificationTypes';
+export default new NotificationService();

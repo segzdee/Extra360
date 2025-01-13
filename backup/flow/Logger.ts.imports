@@ -1,0 +1,2 @@
+File: core/Logger.ts
+export class Logger {

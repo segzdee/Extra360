@@ -1,0 +1,2 @@
+File: services/HealthCheckService.ts
+export class HealthCheckService {

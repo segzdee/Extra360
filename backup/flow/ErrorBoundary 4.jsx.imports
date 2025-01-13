@@ -1,0 +1,4 @@
+File: system_backups/20250109_143758/duplicates/ErrorBoundary 4.jsx
+import React from 'react';
+import AnalyticsService from '../services/analyticsService';
+export default ErrorBoundary;

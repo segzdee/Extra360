@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-01-09T13:40:45.784973",
+  "summary": {
+    "extrastaff": {
+      "total": 50,
+      "valid": 50,
+      "invalid": 0,
+      "field_completeness": {},
+      "data_quality": {
+        "complete": 50,
+        "partial": 0,
+        "invalid": 0
+      }
+    },
+    "companies": {
+      "total": 10,
+      "valid": 10,
+      "invalid": 0,
+      "field_completeness": {},
+      "data_quality": {
+        "complete": 10,
+        "partial": 0,
+        "invalid": 0
+      }
+    },
+    "agencies": {
+      "total": 5,
+      "valid": 5,
+      "invalid": 0,
+      "field_completeness": {},
+      "data_quality": {
+        "complete": 5,
+        "partial": 0,
+        "invalid": 0
+      }
+    }
+  },
+  "metrics": {
+    "execution_time": "0:00:00.000826"
+  }
+}

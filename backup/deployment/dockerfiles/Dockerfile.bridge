@@ -1,0 +1,30 @@
+FROM node:20-alpine AS dependency-quantum-realm
+WORKDIR /quantum-bridge-nexus
+
+COPY package.json package-lock.json ./
+RUN npm ci --only=production --prefer-offline
+
+FROM node:20-alpine AS build-quantum-transmission
+WORKDIR /quantum-bridge-nexus
+
+COPY --from=dependency-quantum-realm /quantum-bridge-nexus/node_modules ./node_modules
+COPY . .
+
+RUN npm run build
+
+FROM node:20-alpine AS quantum-runtime-deployment
+WORKDIR /quantum-bridge-nexus
+
+RUN addgroup -g 1001 -S nodejs && \
+    adduser -S nestjs -u 1001
+
+COPY --from=build-quantum-transmission --chown=nestjs:nodejs /quantum-bridge-nexus/dist ./dist
+COPY --from=dependency-quantum-realm --chown=nestjs:nodejs /quantum-bridge-nexus/node_modules ./node_modules
+COPY --from=build-quantum-transmission --chown=nestjs:nodejs /quantum-bridge-nexus/package.json ./package.json
+
+USER nestjs
+EXPOSE 5000
+ENV NODE_ENV=production
+ENV PORT=5000
+
+CMD ["node", "dist/main"]

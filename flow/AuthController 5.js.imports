@@ -1,0 +1,5 @@
+File: system_backups/20250109_143758/duplicates/AuthController 5.js
+import jwt from 'jsonwebtoken';
+import bcrypt from 'bcryptjs';
+import { User } from '../models/index.js';
+export default AuthController;

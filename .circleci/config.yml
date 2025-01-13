@@ -1,0 +1,57 @@
+version: 2.1
+
+# Quantum execution parameters
+commands:
+  initialize_buildx_quantum:
+    steps:
+      - run:
+          name: "Quantum BuildX Configuration"
+          command: |
+            mkdir -vp ~/.docker/cli-plugins/
+            ARCH=amd64
+            BUILDX_URL=$(curl -s https://raw.githubusercontent.com/docker/actions-toolkit/main/.github/buildx-lab-releases.json | jq -r ".latest.assets[] | select(endswith(\"linux-$ARCH\"))")
+            curl --silent -L --output ~/.docker/cli-plugins/docker-buildx $BUILDX_URL
+            chmod a+x ~/.docker/cli-plugins/docker-buildx
+
+jobs:
+  build_push:
+    machine:
+      image: ubuntu-2204:current
+    steps:
+      - checkout
+      - initialize_buildx_quantum
+      - run: echo "$DOCKER_PASS" | docker login --username $DOCKER_USER --password-stdin
+      - run: docker buildx create --use --driver cloud extrastaff360/extra360-x2
+      - run: |
+          docker buildx build \
+            --platform linux/amd64,linux/arm64 \
+            --push \
+            --tag "extrastaff360/extra360:${CIRCLE_SHA1}" \
+            --tag "extrastaff360/extra360:latest" \
+            .
+
+  build_cache:
+    machine:
+      image: ubuntu-2204:current
+    steps:
+      - checkout
+      - initialize_buildx_quantum
+      - run: echo "$DOCKER_PASS" | docker login --username $DOCKER_USER --password-stdin
+      - run: docker buildx create --use --driver cloud extrastaff360/extra360-x2
+      - run: |
+          docker buildx build \
+            --tag temp \
+            --output type=cacheonly \
+            .
+
+workflows:
+  quantum_ci:
+    jobs:
+      - build_cache:
+          filters:
+            branches:
+              ignore: main
+      - build_push:
+          filters:
+            branches:
+              only: main

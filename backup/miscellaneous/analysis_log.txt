@@ -1,0 +1,3 @@
+Beginning analysis of /Users/meddie/Desktop/Extra360
+Results will be saved to /Users/meddie/Desktop/Extra360/analysis_output
+Analysis complete. Check /Users/meddie/Desktop/Extra360/analysis_output for results.

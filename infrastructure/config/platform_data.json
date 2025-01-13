@@ -1,0 +1,1137 @@
+{
+  "extrastaff": [
+    {
+      "id": "77e16271-c5cd-4d53-a655-e0192ab48397",
+      "profile": {
+        "name": "Staff_3502",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.2,
+        "reliability": 0.86
+      }
+    },
+    {
+      "id": "d8129e80-ad24-441c-a58a-cac62795bd7f",
+      "profile": {
+        "name": "Staff_8240",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.1,
+        "reliability": 0.97
+      }
+    },
+    {
+      "id": "5e9a20cd-762c-4602-9f95-e6ebd2d9ccf4",
+      "profile": {
+        "name": "Staff_5778",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.6,
+        "reliability": 0.81
+      }
+    },
+    {
+      "id": "df6ec73e-cb62-430f-8eb2-e19378b0ad30",
+      "profile": {
+        "name": "Staff_4609",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.5,
+        "reliability": 0.9
+      }
+    },
+    {
+      "id": "bfd20082-4ae6-443a-a37f-9e77596d5bd5",
+      "profile": {
+        "name": "Staff_8388",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.0,
+        "reliability": 0.95
+      }
+    },
+    {
+      "id": "144af5c9-b433-4afd-999d-c89ad4827627",
+      "profile": {
+        "name": "Staff_3044",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.9,
+        "reliability": 0.95
+      }
+    },
+    {
+      "id": "25907738-61d0-4943-ac7b-29636c169cc3",
+      "profile": {
+        "name": "Staff_5747",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.2,
+        "reliability": 0.89
+      }
+    },
+    {
+      "id": "78a05629-91ae-4126-aeb1-07b96597a25b",
+      "profile": {
+        "name": "Staff_6608",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.0,
+        "reliability": 0.92
+      }
+    },
+    {
+      "id": "a11886a4-dc8c-45d4-a4ea-482b0a75b3c4",
+      "profile": {
+        "name": "Staff_7161",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.4,
+        "reliability": 0.96
+      }
+    },
+    {
+      "id": "02ee68e1-4498-4384-8314-e636adc92be3",
+      "profile": {
+        "name": "Staff_3731",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.1,
+        "reliability": 0.82
+      }
+    },
+    {
+      "id": "0a751d0a-c3ff-414e-9fd7-9f9423ab7c01",
+      "profile": {
+        "name": "Staff_5349",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.2,
+        "reliability": 0.95
+      }
+    },
+    {
+      "id": "4f2e38ba-053a-4e2b-ba65-1c7271b7fdcf",
+      "profile": {
+        "name": "Staff_2244",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.9,
+        "reliability": 0.94
+      }
+    },
+    {
+      "id": "082e3ec2-7a00-480d-bff5-3a07e23926c2",
+      "profile": {
+        "name": "Staff_4894",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.6,
+        "reliability": 0.91
+      }
+    },
+    {
+      "id": "134d4940-4d10-4c84-9544-acba6093d8d1",
+      "profile": {
+        "name": "Staff_2584",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.4,
+        "reliability": 0.91
+      }
+    },
+    {
+      "id": "39db45d2-1cbb-4eab-8a76-b33288a4eba3",
+      "profile": {
+        "name": "Staff_6445",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.1,
+        "reliability": 0.82
+      }
+    },
+    {
+      "id": "397a304d-c46d-4e37-b7da-bd62b165dba4",
+      "profile": {
+        "name": "Staff_7681",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.5,
+        "reliability": 0.92
+      }
+    },
+    {
+      "id": "83e440f5-856c-450a-9b23-0bc6cdd99b1d",
+      "profile": {
+        "name": "Staff_9840",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.8,
+        "reliability": 0.84
+      }
+    },
+    {
+      "id": "5af29604-94d0-4ad4-b6cd-1881163f7c72",
+      "profile": {
+        "name": "Staff_4752",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.7,
+        "reliability": 0.83
+      }
+    },
+    {
+      "id": "c442a2b1-49b2-40fd-b5ff-e9c8aa373910",
+      "profile": {
+        "name": "Staff_4772",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.9,
+        "reliability": 0.81
+      }
+    },
+    {
+      "id": "2f548900-5dfe-4d1b-b0da-51c34cca41ab",
+      "profile": {
+        "name": "Staff_4263",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.4,
+        "reliability": 0.85
+      }
+    },
+    {
+      "id": "2fbbf245-86be-4658-acfd-7e80d8465c97",
+      "profile": {
+        "name": "Staff_7757",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.9,
+        "reliability": 0.98
+      }
+    },
+    {
+      "id": "9a29aa17-e695-4a07-82fd-ce9ad8b28759",
+      "profile": {
+        "name": "Staff_2017",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.7,
+        "reliability": 0.82
+      }
+    },
+    {
+      "id": "7f578fa9-0dde-4e3a-9ce7-59db9e17646b",
+      "profile": {
+        "name": "Staff_6236",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.5,
+        "reliability": 1.0
+      }
+    },
+    {
+      "id": "203809e1-a809-4f16-861c-15d23891237f",
+      "profile": {
+        "name": "Staff_6360",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.9,
+        "reliability": 0.99
+      }
+    },
+    {
+      "id": "0877affc-b7d8-4404-ba01-663439f69d38",
+      "profile": {
+        "name": "Staff_4993",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.4,
+        "reliability": 0.97
+      }
+    },
+    {
+      "id": "7c05c560-4626-446e-84c9-4d05d40b5653",
+      "profile": {
+        "name": "Staff_1050",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 5.0,
+        "reliability": 0.98
+      }
+    },
+    {
+      "id": "c8e9ceda-7a8a-4c42-a837-1cf680aa67c4",
+      "profile": {
+        "name": "Staff_7772",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.3,
+        "reliability": 0.85
+      }
+    },
+    {
+      "id": "c656fff8-cfaf-45bc-9037-6f24f7d98b53",
+      "profile": {
+        "name": "Staff_2263",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.4,
+        "reliability": 0.94
+      }
+    },
+    {
+      "id": "633d4869-c1f1-4b7f-971d-35e31ca4cd9e",
+      "profile": {
+        "name": "Staff_9634",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.6,
+        "reliability": 0.81
+      }
+    },
+    {
+      "id": "af0bf37a-8c89-4c24-85eb-d1e98b212e3b",
+      "profile": {
+        "name": "Staff_8437",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.9,
+        "reliability": 0.98
+      }
+    },
+    {
+      "id": "74dd5852-7254-4084-ba11-218e7a45fb99",
+      "profile": {
+        "name": "Staff_7121",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.3,
+        "reliability": 0.88
+      }
+    },
+    {
+      "id": "02449fdb-828e-4c62-98e1-5beea7714c20",
+      "profile": {
+        "name": "Staff_8763",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.4,
+        "reliability": 0.88
+      }
+    },
+    {
+      "id": "6918e5ae-3604-400b-883c-2fc736275846",
+      "profile": {
+        "name": "Staff_9293",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.7,
+        "reliability": 0.96
+      }
+    },
+    {
+      "id": "2b119b67-8820-425d-9032-5ccf7b539f92",
+      "profile": {
+        "name": "Staff_4736",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.6,
+        "reliability": 0.91
+      }
+    },
+    {
+      "id": "7894afb5-6107-4076-8514-617f3e326ce5",
+      "profile": {
+        "name": "Staff_3765",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.1,
+        "reliability": 0.93
+      }
+    },
+    {
+      "id": "5ff600d7-e3b3-4e3c-95d4-9eb3deb0c1a0",
+      "profile": {
+        "name": "Staff_3751",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.3,
+        "reliability": 0.9
+      }
+    },
+    {
+      "id": "c5b6ca01-871b-4227-8386-13ffdc0892b3",
+      "profile": {
+        "name": "Staff_6681",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.3,
+        "reliability": 0.85
+      }
+    },
+    {
+      "id": "ab197d84-f2ae-432b-a2fa-6abc86f1491d",
+      "profile": {
+        "name": "Staff_8493",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.6,
+        "reliability": 0.92
+      }
+    },
+    {
+      "id": "8d5370b2-3e89-4e7b-84f0-e8a0307dd8d5",
+      "profile": {
+        "name": "Staff_3582",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.9,
+        "reliability": 0.96
+      }
+    },
+    {
+      "id": "7570c12a-1550-4396-b784-4ea4bbceb6d3",
+      "profile": {
+        "name": "Staff_9785",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.9,
+        "reliability": 0.92
+      }
+    },
+    {
+      "id": "f97a368a-f39c-47af-8e19-23242add4597",
+      "profile": {
+        "name": "Staff_7523",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.8,
+        "reliability": 0.99
+      }
+    },
+    {
+      "id": "cbb2c91c-fc94-4c0a-9b2b-d0fc15850fb3",
+      "profile": {
+        "name": "Staff_1433",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.9,
+        "reliability": 0.95
+      }
+    },
+    {
+      "id": "9a9fb069-d4dc-4899-84bd-d4b53457685b",
+      "profile": {
+        "name": "Staff_3223",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Guest Services"
+        ]
+      },
+      "metrics": {
+        "rating": 4.5,
+        "reliability": 0.98
+      }
+    },
+    {
+      "id": "16654212-9246-49bd-ba6b-d55eb85f61b8",
+      "profile": {
+        "name": "Staff_7927",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.6,
+        "reliability": 0.87
+      }
+    },
+    {
+      "id": "305b0f6a-dc3b-4802-a26a-71ae3deae60c",
+      "profile": {
+        "name": "Staff_9233",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.7,
+        "reliability": 0.93
+      }
+    },
+    {
+      "id": "eef0ccbb-4dbc-4801-ba89-0ce6a4128c60",
+      "profile": {
+        "name": "Staff_3671",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.1,
+        "reliability": 0.94
+      }
+    },
+    {
+      "id": "48c18cb0-c7d0-4a86-8454-091c1fe80d32",
+      "profile": {
+        "name": "Staff_1005",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.4,
+        "reliability": 0.8
+      }
+    },
+    {
+      "id": "5899f4a9-7564-4063-bc3e-ded933bc34f0",
+      "profile": {
+        "name": "Staff_1772",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.3,
+        "reliability": 0.88
+      }
+    },
+    {
+      "id": "4125c174-75a9-4dbd-af7a-8ddf337ff3b1",
+      "profile": {
+        "name": "Staff_9642",
+        "industry": "Hotels",
+        "skills": [
+          "Revenue Management"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.6,
+        "reliability": 0.99
+      }
+    },
+    {
+      "id": "aa8cf586-5cd6-485b-83be-996d19487c4f",
+      "profile": {
+        "name": "Staff_5947",
+        "industry": "Hotels",
+        "skills": [
+          "Guest Relations"
+        ],
+        "certifications": [
+          "Hotel Management"
+        ]
+      },
+      "metrics": {
+        "rating": 4.3,
+        "reliability": 0.92
+      }
+    }
+  ],
+  "companies": [
+    {
+      "id": "999bb01b-b27b-44e5-8b0f-9ccb7c1d281e",
+      "profile": {
+        "name": "Company_6407",
+        "industry": "Hotels",
+        "requirements": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "30a092df-e605-415b-a23e-e34ed2863b53",
+      "profile": {
+        "name": "Company_7985",
+        "industry": "Hotels",
+        "requirements": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "291b51e0-d336-4aea-9631-f364180dc4f8",
+      "profile": {
+        "name": "Company_2221",
+        "industry": "Hotels",
+        "requirements": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "cc0f1f04-b1e9-4976-a98c-13e77785367b",
+      "profile": {
+        "name": "Company_1486",
+        "industry": "Hotels",
+        "requirements": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "0918674c-2c5b-47cf-863f-f497ed0956c4",
+      "profile": {
+        "name": "Company_7132",
+        "industry": "Hotels",
+        "requirements": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "8a482397-851f-4347-8b80-53cc8dd7b89b",
+      "profile": {
+        "name": "Company_4299",
+        "industry": "Hotels",
+        "requirements": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "dbdf6ff7-c313-414f-85b9-00981541c246",
+      "profile": {
+        "name": "Company_8736",
+        "industry": "Hotels",
+        "requirements": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "49bf598b-f77e-4ef1-a064-37676f9e7e2d",
+      "profile": {
+        "name": "Company_6283",
+        "industry": "Hotels",
+        "requirements": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "7d29f31b-5178-4476-84b7-f8014ab3a9fe",
+      "profile": {
+        "name": "Company_6395",
+        "industry": "Hotels",
+        "requirements": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "572148a1-bf01-4ba5-b0c9-6deb3d78d973",
+      "profile": {
+        "name": "Company_4650",
+        "industry": "Hotels",
+        "requirements": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    }
+  ],
+  "agencies": [
+    {
+      "id": "0c038892-e35e-4b4e-8b8a-c2a495200c38",
+      "profile": {
+        "name": "Agency_3102",
+        "industry_focus": [
+          "Hotels"
+        ],
+        "capabilities": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "6e625bc7-702c-421a-8bee-3136ea097835",
+      "profile": {
+        "name": "Agency_4048",
+        "industry_focus": [
+          "Hotels"
+        ],
+        "capabilities": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "176264e0-cf7f-4232-8797-c1fa6f6af704",
+      "profile": {
+        "name": "Agency_3607",
+        "industry_focus": [
+          "Hotels"
+        ],
+        "capabilities": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "d334a860-7327-4736-a8bb-2af66c0ee25e",
+      "profile": {
+        "name": "Agency_3758",
+        "industry_focus": [
+          "Hotels"
+        ],
+        "capabilities": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    },
+    {
+      "id": "0f6b07b0-a112-4b35-9f9b-e5732f6b66e9",
+      "profile": {
+        "name": "Agency_8769",
+        "industry_focus": [
+          "Hotels"
+        ],
+        "capabilities": {
+          "skills": [
+            "Revenue Management",
+            "Guest Relations"
+          ],
+          "certifications": [
+            "Hotel Management",
+            "Guest Services"
+          ]
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "generation_timestamp": "2025-01-09T05:57:32.472923",
+    "system_version": "1.0",
+    "configuration": {
+      "industry_focus": "Hotels",
+      "geographic_distribution": null,
+      "temporal_constraints": [
+        30,
+        730
+      ],
+      "validation_protocols": true,
+      "optimization_level": "advanced"
+    }
+  }
+}

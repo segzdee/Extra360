@@ -1,0 +1,6 @@
+File: services/searchService.ts
+import axios from 'axios';
+import { SearchEntityType } from './searchConfig';
+export interface SearchQuery {
+export interface SearchResult {
+export default new SearchService();

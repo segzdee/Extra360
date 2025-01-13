@@ -1,0 +1,11 @@
+File: BRIDGE/api/routes/clients.js
+const router = express.Router();
+const ClientController = require('../controllers/ClientController');
+--
+router.post('/shifts', authenticateToken, ClientController.createShift);
+
+--
+router.get('/shifts', authenticateToken, ClientController.getShifts);
+
+--
+module.exports = router;

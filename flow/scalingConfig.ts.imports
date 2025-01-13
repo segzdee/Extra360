@@ -1,0 +1,6 @@
+File: microservices/src/scaling/scalingConfig.ts
+import { MicroserviceType } from '../types/architecture';
+export interface ScalingConfiguration {
+export interface LoadBalancingStrategy {
+export class ScalingManager {
+export const scalingManager = new ScalingManager();

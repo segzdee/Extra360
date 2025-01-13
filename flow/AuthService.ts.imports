@@ -1,0 +1,6 @@
+File: services/AuthService.ts
+import { BaseService } from '../core/BaseService';
+import { JWTManager } from '../security/JWTManager';
+import { PasswordHasher } from '../security/PasswordHasher';
+import { User, LoginCredentials, RegisterData } from '../types';
+export class AuthService extends BaseService {

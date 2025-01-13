@@ -1,0 +1,2 @@
+File: BACKEND/tmp/resources/js/app.js
+import './bootstrap';

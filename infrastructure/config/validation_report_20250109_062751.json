@@ -1,0 +1,35 @@
+{
+  "validation_summary": {
+    "timestamp": "2025-01-09T06:27:51.422975",
+    "total_entities": 65,
+    "entity_distribution": {
+      "staff": 50,
+      "companies": 10,
+      "agencies": 5
+    }
+  },
+  "validation_metrics": {
+    "staff": {
+      "total_count": 50,
+      "valid_count": 50,
+      "invalid_count": 0,
+      "completion_rate": 100.0
+    },
+    "companies": {
+      "total_count": 10,
+      "valid_count": 0,
+      "invalid_count": 10,
+      "completion_rate": 0.0
+    },
+    "agencies": {
+      "total_count": 5,
+      "valid_count": 0,
+      "invalid_count": 5,
+      "completion_rate": 0.0
+    }
+  },
+  "system_performance": {
+    "execution_time": "0:00:00.000614",
+    "processed_entities": 0
+  }
+}

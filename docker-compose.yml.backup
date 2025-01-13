@@ -1,0 +1,73 @@
+version: '3.8'
+
+x-common-environment: &common-env
+  QUANTUM_TRACE_ENABLED: true
+  SYSTEM_LOG_LEVEL: debug
+  DEPLOYMENT_ENVIRONMENT: development
+
+services:
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.frontend
+    ports:
+      - "3001:3000"
+    networks:
+      - extra360_quantum_network
+    environment:
+      <<: *common-env
+      NEXT_PUBLIC_API_ENDPOINT: http://backend:8000
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.backend
+    ports:
+      - "8000:8000"
+    networks:
+      - extra360_quantum_network
+    environment:
+      <<: *common-env
+      DATABASE_CONNECTION_STRING: postgresql://extra360:quantum_pass@database:5432/extra360_db
+
+  bridge:
+    build:
+      context: ./bridge
+      dockerfile: Dockerfile.bridge
+    ports:
+      - "5000:5000"
+    networks:
+      - extra360_quantum_network
+    environment:
+      <<: *common-env
+      MESSAGE_QUEUE_ENDPOINT: amqp://message-queue:5672
+
+  database:
+    image: postgres:13-alpine
+    environment:
+      POSTGRES_DB: extra360_db
+      POSTGRES_PASSWORD: quantum_pass
+      POSTGRES_USER: extra360
+    networks:
+      - extra360_quantum_network
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  message-queue:
+    image: rabbitmq:3-management-alpine
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    networks:
+      - extra360_quantum_network
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+
+volumes:
+  postgres_data:
+  rabbitmq_data:
+
+networks:
+  extra360_quantum_network:
+    driver: bridge

@@ -1,0 +1,4 @@
+File: microservices/src/error/errorHandling.ts
+export enum ErrorCategory {
+export interface ApplicationError {
+export class ExtendedError extends Error {

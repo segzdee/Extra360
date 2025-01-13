@@ -1,0 +1,4 @@
+File: shared/constants.ts
+export const USER_ROLES = {
+export const SHIFT_STATUS = {
+export const API_ROUTES = {

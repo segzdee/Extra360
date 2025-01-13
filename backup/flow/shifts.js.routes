@@ -1,0 +1,9 @@
+File: BRIDGE/api/routes/shifts.js
+const router = express.Router();
+const ShiftController = require('../controllers/ShiftController');
+--
+router.post('/', authenticateToken, validateShiftCreation, ShiftController.createShift);
+router.get('/', authenticateToken, ShiftController.getShifts);
+// ... other shift-related routes ...
+--
+module.exports = router;

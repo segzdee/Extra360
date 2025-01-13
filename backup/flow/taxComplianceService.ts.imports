@@ -1,0 +1,6 @@
+File: services/taxComplianceService.ts
+import axios from 'axios';
+import { TaxInformation } from '../../types/financial/paymentTypes';
+export interface TaxCalculationRequest {
+export interface TaxReport {
+export default new TaxComplianceService();

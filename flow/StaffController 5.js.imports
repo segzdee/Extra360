@@ -1,0 +1,4 @@
+File: system_backups/20250109_143758/duplicates/StaffController 5.js
+import BaseController from './BaseController.js';
+import { Staff } from '../models/index.js';
+export default new StaffController();

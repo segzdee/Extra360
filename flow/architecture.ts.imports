@@ -1,0 +1,6 @@
+File: microservices/src/types/architecture.ts
+export enum MicroserviceType {
+export interface MicroserviceConfig {
+export enum SecurityLevel {
+export enum ScalingStrategy {
+export interface MicroserviceHealthCheck {

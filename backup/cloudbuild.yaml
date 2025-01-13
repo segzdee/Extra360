@@ -1,0 +1,53 @@
+steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['buildx', 'create', '--use']
+    id: 'initialize-builder'
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'buildx'
+      - 'build'
+      - '--platform'
+      - 'linux/amd64,linux/arm64'
+      - '-t'
+      - 'gcr.io/extra360/frontend:${_TAG}'
+      - '-f'
+      - 'frontend/Dockerfile.frontend'
+      - '--push'
+      - '.'
+    waitFor: ['initialize-builder']
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'buildx'
+      - 'build'
+      - '--platform'
+      - 'linux/amd64,linux/arm64'
+      - '-t'
+      - 'gcr.io/extra360/backend:${_TAG}'
+      - '-f'
+      - 'backend/Dockerfile.backend'
+      - '--push'
+      - '.'
+    waitFor: ['initialize-builder']
+
+  - name: 'gcr.io/cloud-builders/docker'
+    args:
+      - 'buildx'
+      - 'build'
+      - '--platform'
+      - 'linux/amd64,linux/arm64'
+      - '-t'
+      - 'gcr.io/extra360/bridge:${_TAG}'
+      - '-f'
+      - 'bridge/Dockerfile.bridge'
+      - '--push'
+      - '.'
+    waitFor: ['initialize-builder']
+
+substitutions:
+  _TAG: 'latest'
+
+options:
+  machineType: 'N1_HIGHCPU_8'
+  diskSizeGb: '100'

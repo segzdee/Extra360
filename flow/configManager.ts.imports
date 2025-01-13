@@ -1,0 +1,6 @@
+File: microservices/config/configManager.ts
+import * as fs from 'fs';
+import * as path from 'path';
+export interface ConfigurationOptions {
+export class ConfigManager {
+export const configManager = ConfigManager.getInstance();

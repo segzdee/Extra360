@@ -1,0 +1,11 @@
+File: BRIDGE/api/routes/agencies.js
+const router = express.Router();
+const AgencyController = require('../controllers/AgencyController');
+--
+router.get('/staff', authenticateToken, AgencyController.getAgencyStaff);
+
+--
+router.post('/staff', authenticateToken, AgencyController.addStaffToAgency);
+
+--
+module.exports = router;

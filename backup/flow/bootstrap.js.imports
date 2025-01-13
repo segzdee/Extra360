@@ -1,0 +1,2 @@
+File: BACKEND/tmp/resources/js/bootstrap.js
+import axios from 'axios';

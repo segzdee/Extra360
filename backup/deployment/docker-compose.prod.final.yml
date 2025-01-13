@@ -1,0 +1,24 @@
+name: extra360
+services:
+  backend:
+    build:
+      context: /Users/meddie/Desktop/Extra360/BACKEND
+      dockerfile: Dockerfile
+    command:
+      - npm
+      - run
+      - start
+    environment:
+      NODE_ENV: production
+    networks:
+      extra360_net: null
+    volumes:
+      - type: bind
+        source: /Users/meddie/Desktop/Extra360/BACKEND
+        target: /app
+        bind:
+          create_host_path: true
+networks:
+  extra360_net:
+    name: extra360_extra360_net
+    driver: bridge

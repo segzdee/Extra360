@@ -1,0 +1,15 @@
+{
+  "environment": "development",
+  "logLevel": "debug",
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "username": "extrastaff_dev",
+    "password": "dev_password_2024"
+  },
+  "security": {
+    "jwtSecret": "dev_jwt_secret_extrastaff360",
+    "rateLimitWindowMs": 900000,
+    "rateLimitMaxRequests": 100
+  }
+}
