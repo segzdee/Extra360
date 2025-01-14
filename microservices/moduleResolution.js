@@ -9,7 +9,7 @@ module.exports = {
     for (const [key, value] of Object.entries(paths)) {
       const matchPattern = key.replace('*', '');
       if (moduleName.startsWith(matchPattern)) {
-        const replacement = value[0].replace('*', '');
+        const replacement = value[0].replace(/\*/g, '');
         const resolvedPath = path.resolve(baseUrl, replacement, moduleName.replace(matchPattern, ''));
         return { resolvedModule: { resolvedFileName: resolvedPath } };
       }
